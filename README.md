@@ -1,7 +1,7 @@
-## Changelogs
-# October 18th 2024
+# Changelogs
+## October 18th 2024
 - Created new branch
 
-## Tasks
+# Tasks
 - Change Login credential from Email to Username
 - Fix Dashboard page
