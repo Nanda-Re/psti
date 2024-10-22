@@ -16,6 +16,8 @@
         "vite": "^5.0.0"
     },
     "dependencies": {
-        "admin-lte": "^4.0.0-beta2"
+        "admin-lte": "^4.0.0-beta2",
+        "lodash": "^4.17.21",
+        "toastify-js": "^1.12.0"
     }
 }
