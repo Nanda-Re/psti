@@ -6,6 +6,6 @@
 - Changed Login credential from Email to Username
 
 # Tasks
-~- Change Login credential from Email to Username~ Done
-~- Fix Dashboard page~ Use different dashboard??
+- ~Change Login credential from Email to Username~ Done
+- ~Fix Dashboard page~ Use different dashboard??
 - Customize Login page?
