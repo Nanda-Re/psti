@@ -31,13 +31,7 @@ Produk
 
     <hr class="my-1" />
 
-    <x-produk.produk-form :item="$item"></x-produk.produk-form>
-    <h4 class="fw-bold py-3 mb-4">Photo Produk</h4>
-    <x-produk.produk-form-photo :item="$item"></x-produk.produk-form-photo>
-
-    <x-produk.produk-photo-list :item="$item"></x-produk.produk-photo-list>
-
-    <h4 class="fw-bold py-3 mb-4">Label / Kategori Produk</h4>
+    <x-produk.produk-edit :item="$item"></x-produk.produk-edit>
 </div>
 
 

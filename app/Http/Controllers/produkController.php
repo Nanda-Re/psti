@@ -10,11 +10,19 @@ use Illuminate\Support\Facades\Storage;
 class produkController extends Controller
 {
     // Menampilkan daftar produk
-    public function index(Request $request)
+    public function index()
     {
         $pages = 'products';
         $items = Produk::orderBy('name', 'asc')->paginate();
-        return view('admin.produk.index', compact('request', 'pages', 'items'));
+        return view('admin.produk.index', compact('pages', 'items'));
+    }
+
+
+    public function getProduk()
+    {
+        $pages = 'products';
+        $items = Produk::orderBy('name', 'asc')->paginate();
+        return view('index', compact('pages', 'items'));
     }
 
     // Menampilkan form untuk membuat produk baru
@@ -33,6 +41,7 @@ class produkController extends Controller
                 'name' => 'required|string|max:255',
                 'price' => 'required|numeric',
                 'jenis' => 'required|string|max:255',
+                'stok' => 'required|numeric',
                 'image' => 'nullable|image|mimes:jpeg,png,jpg,gif|max:2048',
             ]);
 
@@ -47,6 +56,7 @@ class produkController extends Controller
                 'name' => $request->name,
                 'price' => $request->price,
                 'jenis' => $request->jenis,
+                'stok' => $request->stok,
                 'image' => $photoPath,
             ]);
 
@@ -61,55 +71,61 @@ class produkController extends Controller
         }
     }
 
-
-
-
-    // Menampilkan form untuk mengedit produk
-    public function edit($id)
+    public function edit(Produk $item)
     {
-        $product = Produk::findOrFail($id); // Mencari produk berdasarkan ID
-        return view('admin.produk.edit', compact('product'));
+        $pages = 'products';
+        return view('admin.produk.edit', compact('pages', 'item'));
     }
 
-    // Memperbarui data produk
+    // Mengubah parameter update
     public function update(Request $request, $id)
     {
         try {
+            // Validating the incoming request
             $request->validate([
                 'name' => 'required|string|max:255',
-                'description' => 'nullable|string',
-                'price' => 'required|numeric',
-                'image' => 'nullable|image|mimes:jpeg,png,jpg,gif|max:2048', // Validasi gambar
+                'jenis' => 'required|string|max:255',
+                'price' => 'nullable|numeric',
+                'stok' => 'nullable|numeric',
+                'image' => 'nullable|image|mimes:jpeg,png,jpg,gif|max:2048',
             ]);
 
-            $product = Produk::findOrFail($id); // Mencari produk berdasarkan ID
-            $product->name = $request->name;
-            $product->description = $request->description;
-            $product->price = $request->price;
+            // Find the product by ID
+            $produk = Produk::findOrFail($id);
 
-            // Mengupdate gambar jika ada
+            // Update fields
+            $produk->name = $request->name;
+            $produk->jenis = $request->jenis;
+            $produk->stok = $request->stok;
+            $produk->price = $request->price;
+
+            // Handle image upload if it exists
             if ($request->hasFile('image')) {
-                // Hapus gambar lama jika ada
-                if ($product->image) {
-                    Storage::disk('public')->delete($product->image);
+                // Delete old image if it exists
+                if ($produk->image) {
+                    Storage::disk('public')->delete($produk->image);
                 }
 
-                $path = $request->file('image')->store('images', 'public'); // Simpan gambar baru
-                $product->image = $path;
+                // Store the new image and update the path
+                $path = $request->file('image')->store('images', 'public');
+                $produk->image = $path;
             }
 
-            $product->save(); // Menyimpan produk yang sudah diperbarui
+            // Save the updated product
+            $produk->save();
 
-            return redirect()->route('produk.index')->with('success', 'Produk berhasil diperbarui.');
+            // Redirect back with success message
+            return redirect()->route('admin.produk')->with('status', 'Data berhasil diperbarui')->with('tipe', 'success')->with('icon', 'fas fa-feather');
         } catch (\Exception $e) {
             // Log the error for debugging
             Log::error('Error updating product: ' . $e->getMessage());
 
-            // Redirect with an error message
-            return redirect()->back()->with('error', 'Failed to create product, please try again.');
+            // Redirect with error message
+            return redirect()->back()->with('status', $e->getMessage())
+                ->with('tipe', 'error')
+                ->with('icon', 'fas fa-feather');
         }
     }
-
 
     // Menghapus produk
     public function destroy(Produk $item)

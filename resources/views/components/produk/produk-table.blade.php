@@ -2,10 +2,11 @@
     <x-babeng.table-one>
         <x-slot name="thead">
             <th class="babeng-min-row text-center">No</th>
-            <th class="babeng-min-row  text-center">Aksi</th>
+            <th class="babeng-min-row text-center">Aksi</th>
             <th>Nama</th>
             <th>Jenis</th>
             <th>Harga</th>
+            <th>Stok</th>
             <th class="text-center">Photo</th>
         </x-slot>
         <x-slot name="tbody">
@@ -16,10 +17,11 @@
                     <x-btnedit link="{{route('produk.edit',$item->id)}}"></x-btnedit>
                     <x-btndelete link="{{ route('produk.destroy', $item->id) }}"></x-btndelete>
                 </td>
-                <td>{{$item->name}}</td>
-                <td>{{$item->jenis}}</td>
-                <td>Rp. {{$item->price}}</td>
-                <td><img src="{{Storage::url($item->image)}}" style="width: 50px; height: 50px; object-fit: cover;" alt=""></td>
+                <td >{{$item->name}}</td>
+                <td class="babeng-min-row text-center">{{$item->jenis}}</td>
+                <td class="babeng-min-row text-center">Rp. {{$item->price}}</td>
+                <td class="babeng-min-row text-center">{{$item->stok}}</td>
+                <td class="babeng-min-row"><img src="{{Storage::url($item->image)}}" style="width: 50px; height: 50px; object-fit: cover;" alt=""></td>
                 </td>
             </tr>
             @empty
