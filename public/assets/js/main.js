@@ -292,3 +292,29 @@
   new PureCounter();
 
 })()
+
+function filterSelection(category, button) {
+  // Filter items
+  let items = document.querySelectorAll('.portfolio-item');
+  items.forEach(item => {
+    if (category === 'all' || item.classList.contains(category)) {
+      item.style.display = 'block';
+    } else {
+      item.style.display = 'none';
+    }
+  });
+
+  // Update button styles
+  let buttons = document.querySelectorAll('.btn');
+  buttons.forEach(btn => {
+    btn.classList.remove('btn-primary', 'active');
+    btn.classList.add('btn-outline-primary');
+  });
+  
+  // Apply active style to clicked button
+  button.classList.remove('btn-outline-primary');
+  button.classList.add('btn-primary', 'active');
+}
+
+// Set default filter to 'all' on page load
+window.onload = () => filterSelection('all', document.querySelector('.btn.active'));

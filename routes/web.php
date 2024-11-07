@@ -16,8 +16,8 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-Route::get('/', function () {
-    return view('index');
+Route::middleware('web')->group(function (){
+    Route::get('/', [ProdukController::class,'getProduk'])->name('jancok');
 });
 
 
@@ -36,11 +36,13 @@ Route::middleware('auth')->group(function () {
     Route::patch('/profile', [ProfileController::class, 'update'])->name('profile.update');
     Route::delete('/profile', [ProfileController::class, 'destroy'])->name('profile.destroy');
 
+
     Route::get('/produk', [produkController::class, 'index'])->name('admin.produk');
     Route::get('/products/create', [produkController::class, 'create'])->name('produk.create');
     Route::Post('/products/store', [produkController::class, 'store'])->name('produk.store');
-    Route::delete('/products/{item}', [produkController::class, 'destroy'])->name('produk.destroy');    
-    Route::get('/products/{product}/edit', [produkController::class, 'edit'])->name('produk.edit');
+    Route::delete('/products/{item}', [produkController::class, 'destroy'])->name('produk.destroy');  
+    Route::put('/products/{item}', [produkController::class, 'update'])->name('produk.update');
+    Route::get('/products/{item}/edit', [produkController::class, 'edit'])->name('produk.edit');
 });
 
 require __DIR__ . '/auth.php';
