@@ -15,7 +15,7 @@ return new class extends Migration
             $table->id();
             $table->string('name');
             $table->string('jenis');
-            $table->string('image')->nullable(); // Kolom untuk menyimpan nama gambar
+            $table->text('image')->nullable(); // Kolom untuk menyimpan nama gambar
             $table->decimal('price', 8, 2);
             $table->timestamps();
         });

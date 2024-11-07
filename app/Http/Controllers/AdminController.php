@@ -2,6 +2,7 @@
 
 namespace App\Http\Controllers;
 
+use App\Models\user;
 use Illuminate\Http\Request;
 
 class AdminController extends Controller
@@ -14,6 +15,8 @@ class AdminController extends Controller
 
     public function index()
     {
-        return view('admin.dashboard');
+        $pages = 'dashboard';
+        $data = User::where('is_admin', true)->get(); 
+        return view('admin.dashboard', compact('data', 'pages'));
     }
 }

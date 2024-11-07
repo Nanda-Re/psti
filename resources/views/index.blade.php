@@ -146,7 +146,7 @@
             </ul>
             <p>
               Kami menyediakan beranekaragam motif, warna dan merk yang dapat difilter melalui sistem website kami,
-               sehingga memudahkan para pemakai untuk memilih yang sesuai dengan kebutuhan Anda.
+              sehingga memudahkan para pemakai untuk memilih yang sesuai dengan kebutuhan Anda.
             </p>
           </div>
         </div>
@@ -279,1417 +279,1417 @@
 
     <!-- ======= Products Section ======= -->
     <section id="portfolio" class="portfolio">
-        <div class="container" data-aos="fade-up">
+      <div class="container" data-aos="fade-up">
 
-          <div class="section-title">
-            <h2>Products</h2>
-            <p>Check our Products</p>
+        <div class="section-title">
+          <h2>Products</h2>
+          <p>Check our Products</p>
+        </div>
+
+        <div class="row" data-aos="fade-up" data-aos-delay="100">
+          <div class="col-lg-12 d-flex justify-content-center">
+            <ul id="portfolio-flters">
+              <li data-filter="*" class="filter-active">All</li>
+              <li data-filter=".filter-bathcabinet">Bath Cabinet</li>
+              <li data-filter=".filter-bathsink">BATH SINK</li>
+              <li data-filter=".filter-mirror">Mirror</li>
+              <li data-filter=".filter-sanitary">Sanitary</li>
+            </ul>
           </div>
+        </div>
 
-          <div class="row" data-aos="fade-up" data-aos-delay="100">
-            <div class="col-lg-12 d-flex justify-content-center">
-              <ul id="portfolio-flters">
-                <li data-filter="*" class="filter-active">All</li>
-                <li data-filter=".filter-bathcabinet">Bath Cabinet</li>
-                <li data-filter=".filter-bathsink">BATH SINK</li>
-                <li data-filter=".filter-mirror">Mirror</li>
-                <li data-filter=".filter-sanitary">Sanitary</li>
-              </ul>
+        <div class="row portfolio-container" data-aos="fade-up" data-aos-delay="200">
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-bathcabinet">
+            <div class="portfolio-wrap">
+              <img src="assets/img/kp_image/bath_cabinet/1.png" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4>7001</h4>
+                <p>BATH CABINET</p>
+                <p>CABINET SIZE: 730x730x460 mm</p>
+                <div class="portfolio-links">
+                  <a href="assets/img/kp_image/bath_cabinet/1.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Bath Cabinet 1"><i class="bx bx-plus"></i></a>
+                  <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
+                </div>
+              </div>
             </div>
           </div>
 
-          <div class="row portfolio-container" data-aos="fade-up" data-aos-delay="200">
-
-            <div class="col-lg-4 col-md-6 portfolio-item filter-bathcabinet">
-                <div class="portfolio-wrap">
-                  <img src="assets/img/kp_image/bath_cabinet/1.png" class="img-fluid" alt="">
-                  <div class="portfolio-info">
-                    <h4>7001</h4>
-                    <p>BATH CABINET</p>
-                    <p>CABINET SIZE: 730x730x460 mm</p>
-                    <div class="portfolio-links">
-                      <a href="assets/img/kp_image/bath_cabinet/1.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Bath Cabinet 1"><i class="bx bx-plus"></i></a>
-                       <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
-                    </div>
-                  </div>
-                </div>
-              </div>
-
-              <div class="col-lg-4 col-md-6 portfolio-item filter-bathcabinet">
-                <div class="portfolio-wrap">
-                  <img src="assets/img/kp_image/bath_cabinet/2.png" class="img-fluid" alt="">
-                  <div class="portfolio-info">
-                    <h4>7002</h4>
-                    <p>BATH CABINET</p>
-                    <p>CABINET SIZE: 580x460x660 mm</p>
-                    <div class="portfolio-links">
-                      <a href="assets/img/kp_image/bath_cabinet/2.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Bath Cabinet 2"><i class="bx bx-plus"></i></a>
-                       <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
-                    </div>
-                  </div>
-                </div>
-              </div>
-
-              <div class="col-lg-4 col-md-6 portfolio-item filter-bathcabinet">
-                <div class="portfolio-wrap">
-                  <img src="assets/img/kp_image/bath_cabinet/3.png" class="img-fluid" alt="">
-                  <div class="portfolio-info">
-                    <h4>7003</h4>
-                    <p>BATH CABINET</p>
-                    <p>CABINET SIZE: 500x500x670 mm</p>
-                    <div class="portfolio-links">
-                      <a href="assets/img/kp_image/bath_cabinet/3.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Bath Cabinet 3"><i class="bx bx-plus"></i></a>
-                       <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
-                    </div>
-                  </div>
-                </div>
-              </div>
-
-              <div class="col-lg-4 col-md-6 portfolio-item filter-bathcabinet">
-                <div class="portfolio-wrap">
-                  <img src="assets/img/kp_image/bath_cabinet/4.png" class="img-fluid" alt="">
-                  <div class="portfolio-info">
-                    <h4>7005</h4>
-                    <p>BATH CABINET</p>
-                    <p>CABINET SIZE: 800x500x660 mm</p>
-                    <div class="portfolio-links">
-                      <a href="assets/img/kp_image/bath_cabinet/4.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Bath Cabinet 4"><i class="bx bx-plus"></i></a>
-                       <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
-                    </div>
-                  </div>
-                </div>
-              </div>
-
-              <div class="col-lg-4 col-md-6 portfolio-item filter-bathcabinet">
-                <div class="portfolio-wrap">
-                  <img src="assets/img/kp_image/bath_cabinet/5.png" class="img-fluid" alt="">
-                  <div class="portfolio-info">
-                    <h4>7006</h4>
-                    <p>BATH CABINET</p>
-                    <p>Cabinet Size : 900x820x500 mm</p>
-                    <div class="portfolio-links">
-                      <a href="assets/img/kp_image/bath_cabinet/5.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Bath Cabinet 5"><i class="bx bx-plus"></i></a>
-                       <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
-                    </div>
-                  </div>
-                </div>
-              </div>
-
-              <div class="col-lg-4 col-md-6 portfolio-item filter-bathcabinet">
-                <div class="portfolio-wrap">
-                  <img src="assets/img/kp_image/bath_cabinet/6.png" class="img-fluid" alt="">
-                  <div class="portfolio-info">
-                    <h4>7007</h4>
-                    <p>BATH CABINET</p>
-                    <p>Cabinet Size : 550x680x350 mm</p>
-                    <div class="portfolio-links">
-                      <a href="assets/img/kp_image/bath_cabinet/6.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Bath Cabinet 6"><i class="bx bx-plus"></i></a>
-                       <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
-                    </div>
-                  </div>
-                </div>
-              </div>
-
-              <div class="col-lg-4 col-md-6 portfolio-item filter-bathcabinet">
-                <div class="portfolio-wrap">
-                  <img src="assets/img/kp_image/bath_cabinet/7.png" class="img-fluid" alt="">
-                  <div class="portfolio-info">
-                    <h4>7008</h4>
-                    <p>BATH CABINET</p>
-                    <p>Cabinet Size : 410x700x410 mm</p>
-                    <div class="portfolio-links">
-                      <a href="assets/img/kp_image/bath_cabinet/7.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Bath Cabinet 7"><i class="bx bx-plus"></i></a>
-                       <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
-                    </div>
-                  </div>
-                </div>
-              </div>
-
-              <div class="col-lg-4 col-md-6 portfolio-item filter-bathcabinet">
-                <div class="portfolio-wrap">
-                  <img src="assets/img/kp_image/bath_cabinet/8.png" class="img-fluid" alt="">
-                  <div class="portfolio-info">
-                    <h4>7009</h4>
-                    <p>BATH CABINET</p>
-                    <p>Cabinet Size : 450x720x400 mm</p>
-                    <div class="portfolio-links">
-                      <a href="assets/img/kp_image/bath_cabinet/8.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Bath Cabinet 8"><i class="bx bx-plus"></i></a>
-                       <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
-                    </div>
-                  </div>
-                </div>
-              </div>
-
-              <div class="col-lg-4 col-md-6 portfolio-item filter-bathcabinet">
-                <div class="portfolio-wrap">
-                  <img src="assets/img/kp_image/bath_cabinet/9.png" class="img-fluid" alt="">
-                  <div class="portfolio-info">
-                    <h4>7010</h4>
-                    <p>BATH CABINET</p>
-                    <p>Cabinet Size : 900x790x450 mm</p>
-                    <div class="portfolio-links">
-                      <a href="assets/img/kp_image/bath_cabinet/9.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Bath Cabinet 9"><i class="bx bx-plus"></i></a>
-                       <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
-                    </div>
-                  </div>
-                </div>
-              </div>
-
-              <div class="col-lg-4 col-md-6 portfolio-item filter-bathcabinet">
-                <div class="portfolio-wrap">
-                  <img src="assets/img/kp_image/bath_cabinet/10.png" class="img-fluid" alt="">
-                  <div class="portfolio-info">
-                    <h4>7011</h4>
-                    <p>BATH CABINET</p>
-                    <p>Cabinet Size : 420x660x460 mm</p>
-                    <div class="portfolio-links">
-                      <a href="assets/img/kp_image/bath_cabinet/10.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Bath Cabinet 10"><i class="bx bx-plus"></i></a>
-                       <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
-                    </div>
-                  </div>
-                </div>
-              </div>
-
-              <div class="col-lg-4 col-md-6 portfolio-item filter-bathcabinet">
-                <div class="portfolio-wrap">
-                  <img src="assets/img/kp_image/bath_cabinet/11.png" class="img-fluid" alt="">
-                  <div class="portfolio-info">
-                    <h4>7012</h4>
-                    <p>BATH CABINET</p>
-                    <p>Cabinet Size : 490x395x560 mm</p>
-                    <div class="portfolio-links">
-                      <a href="assets/img/kp_image/bath_cabinet/11.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Bath Cabinet 11"><i class="bx bx-plus"></i></a>
-                       <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
-                    </div>
-                  </div>
-                </div>
-              </div>
-
-              <div class="col-lg-4 col-md-6 portfolio-item filter-bathcabinet">
-                <div class="portfolio-wrap">
-                  <img src="assets/img/kp_image/bath_cabinet/12.png" class="img-fluid" alt="">
-                  <div class="portfolio-info">
-                    <h4>7015</h4>
-                    <p>BATH CABINET</p>
-                    <p>Cabinet Size : 460x460x570 mm</p>
-                    <div class="portfolio-links">
-                      <a href="assets/img/kp_image/bath_cabinet/12.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Bath Cabinet 12"><i class="bx bx-plus"></i></a>
-                       <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
-                    </div>
-                  </div>
-                </div>
-              </div>
-
-              <div class="col-lg-4 col-md-6 portfolio-item filter-bathcabinet">
-                <div class="portfolio-wrap">
-                  <img src="assets/img/kp_image/bath_cabinet/13.png" class="img-fluid" alt="">
-                  <div class="portfolio-info">
-                    <h4>7016</h4>
-                    <p>BATH CABINET</p>
-                    <p>Cabinet Size : 430x450x470 mm</p>
-                    <div class="portfolio-links">
-                      <a href="assets/img/kp_image/bath_cabinet/13.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Bath Cabinet 13"><i class="bx bx-plus"></i></a>
-                       <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
-                    </div>
-                  </div>
-                </div>
-              </div>
-
-              <div class="col-lg-4 col-md-6 portfolio-item filter-bathcabinet">
-                <div class="portfolio-wrap">
-                  <img src="assets/img/kp_image/bath_cabinet/14.png" class="img-fluid" alt="">
-                  <div class="portfolio-info">
-                    <h4>7017</h4>
-                    <p>BATH CABINET</p>
-                    <p>Cabinet Size : 750x500x500 mm</p>
-                    <div class="portfolio-links">
-                      <a href="assets/img/kp_image/bath_cabinet/14.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Bath Cabinet 14"><i class="bx bx-plus"></i></a>
-                       <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
-                    </div>
-                  </div>
-                </div>
-              </div>
-
-              <div class="col-lg-4 col-md-6 portfolio-item filter-bathcabinet">
-                <div class="portfolio-wrap">
-                  <img src="assets/img/kp_image/bath_cabinet/15.png" class="img-fluid" alt="">
-                  <div class="portfolio-info">
-                    <h4>7018</h4>
-                    <p>BATH CABINET</p>
-                    <p>Cabinet Size : 320x290x970 mm</p>
-                    <div class="portfolio-links">
-                      <a href="assets/img/kp_image/bath_cabinet/15.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Bath Cabinet 15"><i class="bx bx-plus"></i></a>
-                       <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
-                    </div>
-                  </div>
-                </div>
-              </div>
-
-              <div class="col-lg-4 col-md-6 portfolio-item filter-bathcabinet">
-                <div class="portfolio-wrap">
-                  <img src="assets/img/kp_image/bath_cabinet/16.png" class="img-fluid" alt="">
-                  <div class="portfolio-info">
-                    <h4>7019</h4>
-                    <p>BATH CABINET</p>
-                    <p>Cabinet Size : 440x450x370 mm</p>
-                    <div class="portfolio-links">
-                      <a href="assets/img/kp_image/bath_cabinet/16.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Bath Cabinet 16"><i class="bx bx-plus"></i></a>
-                       <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
-                    </div>
-                  </div>
-                </div>
-              </div>
-
-              <div class="col-lg-4 col-md-6 portfolio-item filter-bathcabinet">
-                <div class="portfolio-wrap">
-                  <img src="assets/img/kp_image/bath_cabinet/17.png" class="img-fluid" alt="">
-                  <div class="portfolio-info">
-                    <h4>7020</h4>
-                    <p>BATH CABINET</p>
-                    <p>Cabinet Size : 880x430x550 mm</p>
-                    <div class="portfolio-links">
-                      <a href="assets/img/kp_image/bath_cabinet/17.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Bath Cabinet 17"><i class="bx bx-plus"></i></a>
-                       <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
-                    </div>
-                  </div>
-                </div>
-              </div>
-
-              <div class="col-lg-4 col-md-6 portfolio-item filter-bathcabinet">
-                <div class="portfolio-wrap">
-                  <img src="assets/img/kp_image/bath_cabinet/18.png" class="img-fluid" alt="">
-                  <div class="portfolio-info">
-                    <h4>7022</h4>
-                    <p>BATH CABINET</p>
-                    <p>Cabinet Size : 780x430x580 mm</p>
-                    <div class="portfolio-links">
-                      <a href="assets/img/kp_image/bath_cabinet/18.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Bath Cabinet 18"><i class="bx bx-plus"></i></a>
-                       <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
-                    </div>
-                  </div>
-                </div>
-              </div>
-
-              <div class="col-lg-4 col-md-6 portfolio-item filter-bathcabinet">
-                <div class="portfolio-wrap">
-                  <img src="assets/img/kp_image/bath_cabinet/19.png" class="img-fluid" alt="">
-                  <div class="portfolio-info">
-                    <h4>7021</h4>
-                    <p>BATH CABINET</p>
-                    <p>Cabinet Size : 750x490x470 mm</p>
-                    <div class="portfolio-links">
-                      <a href="assets/img/kp_image/bath_cabinet/19.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Bath Cabinet 19"><i class="bx bx-plus"></i></a>
-                       <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
-                    </div>
-                  </div>
-                </div>
-              </div>
-
-              <div class="col-lg-4 col-md-6 portfolio-item filter-bathcabinet">
-                <div class="portfolio-wrap">
-                  <img src="assets/img/kp_image/bath_cabinet/20.png" class="img-fluid" alt="">
-                  <div class="portfolio-info">
-                    <h4>7023</h4>
-                    <p>BATH CABINET</p>
-                    <p>Cabinet Size : 780x430x580 mm</p>
-                    <div class="portfolio-links">
-                      <a href="assets/img/kp_image/bath_cabinet/20.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Bath Cabinet 20"><i class="bx bx-plus"></i></a>
-                       <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
-                    </div>
-                  </div>
-                </div>
-              </div>
-
-              <div class="col-lg-4 col-md-6 portfolio-item filter-bathcabinet">
-                <div class="portfolio-wrap">
-                  <img src="assets/img/kp_image/bath_cabinet/21.png" class="img-fluid" alt="">
-                  <div class="portfolio-info">
-                    <h4>7025</h4>
-                    <p>BATH CABINET</p>
-                    <p>Cabinet Size : 500x530x660 mm</p>
-                    <div class="portfolio-links">
-                      <a href="assets/img/kp_image/bath_cabinet/21.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Bath Cabinet 21"><i class="bx bx-plus"></i></a>
-                       <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
-                    </div>
-                  </div>
-                </div>
-              </div>
-
-              <div class="col-lg-4 col-md-6 portfolio-item filter-bathcabinet">
-                <div class="portfolio-wrap">
-                  <img src="assets/img/kp_image/bath_cabinet/22.png" class="img-fluid" alt="">
-                  <div class="portfolio-info">
-                    <h4>7026</h4>
-                    <p>BATH CABINET</p>
-                    <p>Cabinet Size : 450x450x450 mm</p>
-                    <div class="portfolio-links">
-                      <a href="assets/img/kp_image/bath_cabinet/22.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Bath Cabinet 22"><i class="bx bx-plus"></i></a>
-                       <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
-                    </div>
-                  </div>
-                </div>
-              </div>
-
-              <div class="col-lg-4 col-md-6 portfolio-item filter-bathcabinet">
-                <div class="portfolio-wrap">
-                  <img src="assets/img/kp_image/bath_cabinet/23.png" class="img-fluid" alt="">
-                  <div class="portfolio-info">
-                    <h4>7027</h4>
-                    <p>BATH CABINET</p>
-                    <p>Cabinet Size : 600x500x780 mm</p>
-                    <div class="portfolio-links">
-                      <a href="assets/img/kp_image/bath_cabinet/23.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Bath Cabinet 23"><i class="bx bx-plus"></i></a>
-                       <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
-                    </div>
-                  </div>
-                </div>
-              </div>
-
-              <div class="col-lg-4 col-md-6 portfolio-item filter-bathcabinet">
-                <div class="portfolio-wrap">
-                  <img src="assets/img/kp_image/bath_cabinet/24.png" class="img-fluid" alt="">
-                  <div class="portfolio-info">
-                    <h4>7028</h4>
-                    <p>BATH CABINET</p>
-                    <p>Cabinet Size : 880x630x680 mm</p>
-                    <div class="portfolio-links">
-                      <a href="assets/img/kp_image/bath_cabinet/24.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Bath Cabinet 24"><i class="bx bx-plus"></i></a>
-                       <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
-                    </div>
-                  </div>
-                </div>
-              </div>
-
-              <div class="col-lg-4 col-md-6 portfolio-item filter-bathcabinet">
-                <div class="portfolio-wrap">
-                  <img src="assets/img/kp_image/bath_cabinet/25.png" class="img-fluid" alt="">
-                  <div class="portfolio-info">
-                    <h4>7029</h4>
-                    <p>BATH CABINET</p>
-                    <p>Cabinet Size : 420x420x560 mm</p>
-                    <div class="portfolio-links">
-                      <a href="assets/img/kp_image/bath_cabinet/25.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Bath Cabinet 25"><i class="bx bx-plus"></i></a>
-                       <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
-                    </div>
-                  </div>
-                </div>
-              </div>
-
-              <div class="col-lg-4 col-md-6 portfolio-item filter-bathcabinet">
-                <div class="portfolio-wrap">
-                  <img src="assets/img/kp_image/bath_cabinet/26.png" class="img-fluid" alt="">
-                  <div class="portfolio-info">
-                    <h4>7030</h4>
-                    <p>BATH CABINET</p>
-                    <p>Cabinet Size : 595x500x560 mm</p>
-                    <div class="portfolio-links">
-                      <a href="assets/img/kp_image/bath_cabinet/26.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Bath Cabinet 26"><i class="bx bx-plus"></i></a>
-                       <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
-                    </div>
-                  </div>
-                </div>
-              </div>
-
-              <div class="col-lg-4 col-md-6 portfolio-item filter-bathsink">
-                <div class="portfolio-wrap">
-                  <img src="assets/img/kp_image/bath_sink/1.png" class="img-fluid" alt="">
-                  <div class="portfolio-info">
-                    <h4>1001</h4>
-                    <p>BATH SINK</p>
-                    <p>Size : 430x430x170 mm</p>
-                    <div class="portfolio-links">
-                      <a href="assets/img/kp_image/bath_sink/1.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="BATH SINK 1"><i class="bx bx-plus"></i></a>
-                       <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
-                    </div>
-                  </div>
-                </div>
-              </div>
-
-              <div class="col-lg-4 col-md-6 portfolio-item filter-bathsink">
-                <div class="portfolio-wrap">
-                  <img src="assets/img/kp_image/bath_sink/2.png" class="img-fluid" alt="">
-                  <div class="portfolio-info">
-                    <h4>1002</h4>
-                    <p>BATH SINK</p>
-                    <p>Size : 415x415x160 mm</p>
-                    <div class="portfolio-links">
-                      <a href="assets/img/kp_image/bath_sink/2.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="BATH SINK 2"><i class="bx bx-plus"></i></a>
-                       <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
-                    </div>
-                  </div>
-                </div>
-              </div>
-
-              <div class="col-lg-4 col-md-6 portfolio-item filter-bathsink">
-                <div class="portfolio-wrap">
-                  <img src="assets/img/kp_image/bath_sink/3.png" class="img-fluid" alt="">
-                  <div class="portfolio-info">
-                    <h4>1003</h4>
-                    <p>BATH SINK</p>
-                    <p>Size : 460x460x165 mm</p>
-                    <div class="portfolio-links">
-                      <a href="assets/img/kp_image/bath_sink/3.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="BATH SINK 3"><i class="bx bx-plus"></i></a>
-                       <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
-                    </div>
-                  </div>
-                </div>
-              </div>
-
-              <div class="col-lg-4 col-md-6 portfolio-item filter-bathsink">
-                <div class="portfolio-wrap">
-                  <img src="assets/img/kp_image/bath_sink/4.png" class="img-fluid" alt="">
-                  <div class="portfolio-info">
-                    <h4>1005</h4>
-                    <p>BATH SINK</p>
-                    <p>Size : 500x500x165 mm</p>
-                    <div class="portfolio-links">
-                      <a href="assets/img/kp_image/bath_sink/4.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="BATH SINK 4"><i class="bx bx-plus"></i></a>
-                       <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
-                    </div>
-                  </div>
-                </div>
-              </div>
-
-              <div class="col-lg-4 col-md-6 portfolio-item filter-bathsink">
-                <div class="portfolio-wrap">
-                  <img src="assets/img/kp_image/bath_sink/5.png" class="img-fluid" alt="">
-                  <div class="portfolio-info">
-                    <h4>1006</h4>
-                    <p>BATH SINK</p>
-                    <p>Size : 390x390x170 mm</p>
-                    <div class="portfolio-links">
-                      <a href="assets/img/kp_image/bath_sink/5.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="BATH SINK 5"><i class="bx bx-plus"></i></a>
-                       <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
-                    </div>
-                  </div>
-                </div>
-              </div>
-
-              <div class="col-lg-4 col-md-6 portfolio-item filter-bathsink">
-                <div class="portfolio-wrap">
-                  <img src="assets/img/kp_image/bath_sink/6.png" class="img-fluid" alt="">
-                  <div class="portfolio-info">
-                    <h4>1007</h4>
-                    <p>BATH SINK</p>
-                    <p>Size : 590x385x190 mm</p>
-                    <div class="portfolio-links">
-                      <a href="assets/img/kp_image/bath_sink/6.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="BATH SINK 6"><i class="bx bx-plus"></i></a>
-                       <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
-                    </div>
-                  </div>
-                </div>
-              </div>
-
-              <div class="col-lg-4 col-md-6 portfolio-item filter-bathsink">
-                <div class="portfolio-wrap">
-                  <img src="assets/img/kp_image/bath_sink/7.png" class="img-fluid" alt="">
-                  <div class="portfolio-info">
-                    <h4>1008</h4>
-                    <p>BATH SINK</p>
-                    <p>Size : 410x340x145 mm</p>
-                    <div class="portfolio-links">
-                      <a href="assets/img/kp_image/bath_sink/7.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="BATH SINK 7"><i class="bx bx-plus"></i></a>
-                       <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
-                    </div>
-                  </div>
-                </div>
-              </div>
-
-              <div class="col-lg-4 col-md-6 portfolio-item filter-bathsink">
-                <div class="portfolio-wrap">
-                  <img src="assets/img/kp_image/bath_sink/8.png" class="img-fluid" alt="">
-                  <div class="portfolio-info">
-                    <h4>1009</h4>
-                    <p>BATH SINK</p>
-                    <p>Size : 590x400x220 mm</p>
-                    <div class="portfolio-links">
-                      <a href="assets/img/kp_image/bath_sink/8.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="BATH SINK 8"><i class="bx bx-plus"></i></a>
-                       <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
-                    </div>
-                  </div>
-                </div>
-              </div>
-
-              <div class="col-lg-4 col-md-6 portfolio-item filter-bathsink">
-                <div class="portfolio-wrap">
-                  <img src="assets/img/kp_image/bath_sink/9.png" class="img-fluid" alt="">
-                  <div class="portfolio-info">
-                    <h4>1010</h4>
-                    <p>BATH SINK</p>
-                    <p>Size : 450x450x170 mm</p>
-                    <div class="portfolio-links">
-                      <a href="assets/img/kp_image/bath_sink/9.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="BATH SINK 9"><i class="bx bx-plus"></i></a>
-                       <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
-                    </div>
-                  </div>
-                </div>
-              </div>
-
-              <div class="col-lg-4 col-md-6 portfolio-item filter-bathsink">
-                <div class="portfolio-wrap">
-                  <img src="assets/img/kp_image/bath_sink/10.png" class="img-fluid" alt="">
-                  <div class="portfolio-info">
-                    <h4>1011</h4>
-                    <p>BATH SINK</p>
-                    <p>Size : 470x470x180 mm</p>
-                    <div class="portfolio-links">
-                      <a href="assets/img/kp_image/bath_sink/10.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="BATH SINK 10"><i class="bx bx-plus"></i></a>
-                       <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
-                    </div>
-                  </div>
-                </div>
-              </div>
-
-              <div class="col-lg-4 col-md-6 portfolio-item filter-bathsink">
-                <div class="portfolio-wrap">
-                  <img src="assets/img/kp_image/bath_sink/11.png" class="img-fluid" alt="">
-                  <div class="portfolio-info">
-                    <h4>1012</h4>
-                    <p>BATH SINK</p>
-                    <p>Size : 555x345x140 mm</p>
-                    <div class="portfolio-links">
-                      <a href="assets/img/kp_image/bath_sink/11.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="BATH SINK 11"><i class="bx bx-plus"></i></a>
-                       <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
-                    </div>
-                  </div>
-                </div>
-              </div>
-
-              <div class="col-lg-4 col-md-6 portfolio-item filter-bathsink">
-                <div class="portfolio-wrap">
-                  <img src="assets/img/kp_image/bath_sink/12.png" class="img-fluid" alt="">
-                  <div class="portfolio-info">
-                    <h4>1015</h4>
-                    <p>BATH SINK</p>
-                    <p>Size : 420x400x260 mm</p>
-                    <div class="portfolio-links">
-                      <a href="assets/img/kp_image/bath_sink/12.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="BATH SINK 12"><i class="bx bx-plus"></i></a>
-                       <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
-                    </div>
-                  </div>
-                </div>
-              </div>
-
-              <div class="col-lg-4 col-md-6 portfolio-item filter-bathsink">
-                <div class="portfolio-wrap">
-                  <img src="assets/img/kp_image/bath_sink/13.png" class="img-fluid" alt="">
-                  <div class="portfolio-info">
-                    <h4>1016</h4>
-                    <p>BATH SINK</p>
-                    <p>Size : 475x465x180 mm</p>
-                    <div class="portfolio-links">
-                      <a href="assets/img/kp_image/bath_sink/13.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="BATH SINK 13"><i class="bx bx-plus"></i></a>
-                       <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
-                    </div>
-                  </div>
-                </div>
-              </div>
-
-              <div class="col-lg-4 col-md-6 portfolio-item filter-bathsink">
-                <div class="portfolio-wrap">
-                  <img src="assets/img/kp_image/bath_sink/14.png" class="img-fluid" alt="">
-                  <div class="portfolio-info">
-                    <h4>1317</h4>
-                    <p>BATH SINK</p>
-                    <p>Size : 410x415x170 mm</p>
-                    <div class="portfolio-links">
-                      <a href="assets/img/kp_image/bath_sink/14.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="BATH SINK 14"><i class="bx bx-plus"></i></a>
-                       <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
-                    </div>
-                  </div>
-                </div>
-              </div>
-
-              <div class="col-lg-4 col-md-6 portfolio-item filter-bathsink">
-                <div class="portfolio-wrap">
-                  <img src="assets/img/kp_image/bath_sink/15.png" class="img-fluid" alt="">
-                  <div class="portfolio-info">
-                    <h4>1319</h4>
-                    <p>BATH SINK</p>
-                    <p>Size : 460x460x160 mm</p>
-                    <div class="portfolio-links">
-                      <a href="assets/img/kp_image/bath_sink/15.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="BATH SINK 15"><i class="bx bx-plus"></i></a>
-                       <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
-                    </div>
-                  </div>
-                </div>
-              </div>
-
-              <div class="col-lg-4 col-md-6 portfolio-item filter-bathsink">
-                <div class="portfolio-wrap">
-                  <img src="assets/img/kp_image/bath_sink/16.png" class="img-fluid" alt="">
-                  <div class="portfolio-info">
-                    <h4>1321</h4>
-                    <p>BATH SINK</p>
-                    <p>Size : 410x410x150 mm</p>
-                    <div class="portfolio-links">
-                      <a href="assets/img/kp_image/bath_sink/16.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="BATH SINK 16"><i class="bx bx-plus"></i></a>
-                       <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
-                    </div>
-                  </div>
-                </div>
-              </div>
-
-              <div class="col-lg-4 col-md-6 portfolio-item filter-bathsink">
-                <div class="portfolio-wrap">
-                  <img src="assets/img/kp_image/bath_sink/17.png" class="img-fluid" alt="">
-                  <div class="portfolio-info">
-                    <h4>1323</h4>
-                    <p>BATH SINK</p>
-                    <p>Size : 580x460x160 mm</p>
-                    <div class="portfolio-links">
-                      <a href="assets/img/kp_image/bath_sink/17.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="BATH SINK 17"><i class="bx bx-plus"></i></a>
-                       <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
-                    </div>
-                  </div>
-                </div>
-              </div>
-
-              <div class="col-lg-4 col-md-6 portfolio-item filter-bathsink">
-                <div class="portfolio-wrap">
-                  <img src="assets/img/kp_image/bath_sink/18.png" class="img-fluid" alt="">
-                  <div class="portfolio-info">
-                    <h4>1325</h4>
-                    <p>BATH SINK</p>
-                    <p>Size : 550x400x220 mm</p>
-                    <div class="portfolio-links">
-                      <a href="assets/img/kp_image/bath_sink/18.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="BATH SINK 18"><i class="bx bx-plus"></i></a>
-                       <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
-                    </div>
-                  </div>
-                </div>
-              </div>
-
-              <div class="col-lg-4 col-md-6 portfolio-item filter-bathsink">
-                <div class="portfolio-wrap">
-                  <img src="assets/img/kp_image/bath_sink/19.png" class="img-fluid" alt="">
-                  <div class="portfolio-info">
-                    <h4>1327</h4>
-                    <p>BATH SINK</p>
-                    <p>Size : 475x365x130 mm</p>
-                    <div class="portfolio-links">
-                      <a href="assets/img/kp_image/bath_sink/19.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="BATH SINK 19"><i class="bx bx-plus"></i></a>
-                       <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
-                    </div>
-                  </div>
-                </div>
-              </div>
-
-              <div class="col-lg-4 col-md-6 portfolio-item filter-bathsink">
-                <div class="portfolio-wrap">
-                  <img src="assets/img/kp_image/bath_sink/20.png" class="img-fluid" alt="">
-                  <div class="portfolio-info">
-                    <h4>1331</h4>
-                    <p>BATH SINK</p>
-                    <p>Size : 650x470x150 mm</p>
-                    <div class="portfolio-links">
-                      <a href="assets/img/kp_image/bath_sink/20.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="BATH SINK 20"><i class="bx bx-plus"></i></a>
-                       <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
-                    </div>
-                  </div>
-                </div>
-              </div>
-
-              <div class="col-lg-4 col-md-6 portfolio-item filter-bathsink">
-                <div class="portfolio-wrap">
-                  <img src="assets/img/kp_image/bath_sink/21.png" class="img-fluid" alt="">
-                  <div class="portfolio-info">
-                    <h4>1335</h4>
-                    <p>BATH SINK</p>
-                    <p>Size : 475x475x160 mm</p>
-                    <div class="portfolio-links">
-                      <a href="assets/img/kp_image/bath_sink/21.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="BATH SINK 21"><i class="bx bx-plus"></i></a>
-                       <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
-                    </div>
-                  </div>
-                </div>
-              </div>
-
-              <div class="col-lg-4 col-md-6 portfolio-item filter-bathsink">
-                <div class="portfolio-wrap">
-                  <img src="assets/img/kp_image/bath_sink/22.png" class="img-fluid" alt="">
-                  <div class="portfolio-info">
-                    <h4>1337</h4>
-                    <p>BATH SINK</p>
-                    <p>Size : 420x420x165 mm</p>
-                    <div class="portfolio-links">
-                      <a href="assets/img/kp_image/bath_sink/22.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="BATH SINK 22"><i class="bx bx-plus"></i></a>
-                       <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
-                    </div>
-                  </div>
-                </div>
-              </div>
-
-              <div class="col-lg-4 col-md-6 portfolio-item filter-bathsink">
-                <div class="portfolio-wrap">
-                  <img src="assets/img/kp_image/bath_sink/23.png" class="img-fluid" alt="">
-                  <div class="portfolio-info">
-                    <h4>1339</h4>
-                    <p>BATH SINK</p>
-                    <p>Size : 530x500x165 mm</p>
-                    <div class="portfolio-links">
-                      <a href="assets/img/kp_image/bath_sink/23.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="BATH SINK 23"><i class="bx bx-plus"></i></a>
-                       <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
-                    </div>
-                  </div>
-                </div>
-              </div>
-
-              <div class="col-lg-4 col-md-6 portfolio-item filter-bathsink">
-                <div class="portfolio-wrap">
-                  <img src="assets/img/kp_image/bath_sink/24.png" class="img-fluid" alt="">
-                  <div class="portfolio-info">
-                    <h4>1350</h4>
-                    <p>BATH SINK</p>
-                    <p>Size : 560x355x160 mm</p>
-                    <div class="portfolio-links">
-                      <a href="assets/img/kp_image/bath_sink/24.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="BATH SINK 24"><i class="bx bx-plus"></i></a>
-                       <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
-                    </div>
-                  </div>
-                </div>
-              </div>
-
-              <div class="col-lg-4 col-md-6 portfolio-item filter-bathsink">
-                <div class="portfolio-wrap">
-                  <img src="assets/img/kp_image/bath_sink/25.png" class="img-fluid" alt="">
-                  <div class="portfolio-info">
-                    <h4>nama produk</h4>
-                    <p>BATH SINK</p>
-                    <div class="portfolio-links">
-                      <a href="assets/img/kp_image/bath_sink/25.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="BATH SINK 25"><i class="bx bx-plus"></i></a>
-                       <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
-                    </div>
-                  </div>
-                </div>
-              </div>
-
-              <div class="col-lg-4 col-md-6 portfolio-item filter-bathsink">
-                <div class="portfolio-wrap">
-                  <img src="assets/img/kp_image/bath_sink/26.png" class="img-fluid" alt="">
-                  <div class="portfolio-info">
-                    <h4>2518</h4>
-                    <p>BATH SINK</p>
-                    <p>Size : 410x360x200 mm</p>
-                    <div class="portfolio-links">
-                      <a href="assets/img/kp_image/bath_sink/26.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="BATH SINK 26"><i class="bx bx-plus"></i></a>
-                       <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
-                    </div>
-                  </div>
-                </div>
-              </div>
-
-              <div class="col-lg-4 col-md-6 portfolio-item filter-bathsink">
-                <div class="portfolio-wrap">
-                  <img src="assets/img/kp_image/bath_sink/27.png" class="img-fluid" alt="">
-                  <div class="portfolio-info">
-                    <h4>3505</h4>
-                    <p>BATH SINK</p>
-                    <p>Size : 500x420x810 mm</p>
-                    <div class="portfolio-links">
-                      <a href="assets/img/kp_image/bath_sink/27.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="BATH SINK 27"><i class="bx bx-plus"></i></a>
-                       <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
-                    </div>
-                  </div>
-                </div>
-              </div>
-
-              <div class="col-lg-4 col-md-6 portfolio-item filter-bathsink">
-                <div class="portfolio-wrap">
-                  <img src="assets/img/kp_image/bath_sink/28.png" class="img-fluid" alt="">
-                  <div class="portfolio-info">
-                    <h4>3508</h4>
-                    <p>BATH SINK</p>
-                    <p>Size : 560x420x810 mm</p>
-                    <div class="portfolio-links">
-                      <a href="assets/img/kp_image/bath_sink/28.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="BATH SINK 28"><i class="bx bx-plus"></i></a>
-                       <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
-                    </div>
-                  </div>
-                </div>
-              </div>
-
-              <div class="col-lg-4 col-md-6 portfolio-item filter-bathsink">
-                <div class="portfolio-wrap">
-                  <img src="assets/img/kp_image/bath_sink/29.png" class="img-fluid" alt="">
-                  <div class="portfolio-info">
-                    <h4>9015</h4>
-                    <p>BATH SINK</p>
-                    <p>Size : 540x480x880 mm</p>
-                    <div class="portfolio-links">
-                      <a href="assets/img/kp_image/bath_sink/29.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="BATH SINK 29"><i class="bx bx-plus"></i></a>
-                       <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
-                    </div>
-                  </div>
-                </div>
-              </div>
-
-              <div class="col-lg-4 col-md-6 portfolio-item filter-bathsink">
-                <div class="portfolio-wrap">
-                  <img src="assets/img/kp_image/bath_sink/30.png" class="img-fluid" alt="">
-                  <div class="portfolio-info">
-                    <h4>9016</h4>
-                    <p>BATH SINK</p>
-                    <p>Size : 510x510x865 mm</p>
-                    <div class="portfolio-links">
-                      <a href="assets/img/kp_image/bath_sink/30.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="BATH SINK 30"><i class="bx bx-plus"></i></a>
-                       <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
-                    </div>
-                  </div>
-                </div>
-              </div>
-
-              <div class="col-lg-4 col-md-6 portfolio-item filter-bathsink">
-                <div class="portfolio-wrap">
-                  <img src="assets/img/kp_image/bath_sink/31.png" class="img-fluid" alt="">
-                  <div class="portfolio-info">
-                    <h4>9018</h4>
-                    <p>BATH SINK</p>
-                    <p>Size : 610x610x835 mm</p>
-                    <div class="portfolio-links">
-                      <a href="assets/img/kp_image/bath_sink/31.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="BATH SINK 31"><i class="bx bx-plus"></i></a>
-                       <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
-                    </div>
-                  </div>
-                </div>
-              </div>
-
-              <div class="col-lg-4 col-md-6 portfolio-item filter-bathsink">
-                <div class="portfolio-wrap">
-                  <img src="assets/img/kp_image/bath_sink/32.png" class="img-fluid" alt="">
-                  <div class="portfolio-info">
-                    <h4>9021</h4>
-                    <p>BATH SINK</p>
-                    <p>Size : 450x380x830 mm</p>
-                    <div class="portfolio-links">
-                      <a href="assets/img/kp_image/bath_sink/32.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="BATH SINK 32"><i class="bx bx-plus"></i></a>
-                       <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
-                    </div>
-                  </div>
-                </div>
-              </div>
-
-              <div class="col-lg-4 col-md-6 portfolio-item filter-bathsink">
-                <div class="portfolio-wrap">
-                  <img src="assets/img/kp_image/bath_sink/33.png" class="img-fluid" alt="">
-                  <div class="portfolio-info">
-                    <h4>9023</h4>
-                    <p>BATH SINK</p>
-                    <p>Size : 470x470x840 mm</p>
-                    <div class="portfolio-links">
-                      <a href="assets/img/kp_image/bath_sink/33.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="BATH SINK 33"><i class="bx bx-plus"></i></a>
-                       <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
-                    </div>
-                  </div>
-                </div>
-              </div>
-
-              <div class="col-lg-4 col-md-6 portfolio-item filter-bathsink">
-                <div class="portfolio-wrap">
-                  <img src="assets/img/kp_image/bath_sink/34.png" class="img-fluid" alt="">
-                  <div class="portfolio-info">
-                    <h4>9033</h4>
-                    <p>BATH SINK</p>
-                    <p>Size : 450x440x890 mm</p>
-                    <div class="portfolio-links">
-                      <a href="assets/img/kp_image/bath_sink/34.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="BATH SINK 34"><i class="bx bx-plus"></i></a>
-                       <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
-                    </div>
-                  </div>
-                </div>
-              </div>
-
-              <div class="col-lg-4 col-md-6 portfolio-item filter-bathsink">
-                <div class="portfolio-wrap">
-                  <img src="assets/img/kp_image/bath_sink/35.png" class="img-fluid" alt="">
-                  <div class="portfolio-info">
-                    <h4>9001</h4>
-                    <p>BATH SINK</p>
-                    <p>Size : 550x515x850 mm</p>
-                    <div class="portfolio-links">
-                      <a href="assets/img/kp_image/bath_sink/35.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="BATH SINK 35"><i class="bx bx-plus"></i></a>
-                       <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
-                    </div>
-                  </div>
-                </div>
-              </div>
-
-              <div class="col-lg-4 col-md-6 portfolio-item filter-bathsink">
-                <div class="portfolio-wrap">
-                  <img src="assets/img/kp_image/bath_sink/36.png" class="img-fluid" alt="">
-                  <div class="portfolio-info">
-                    <h4>9002</h4>
-                    <p>BATH SINK</p>
-                    <p>Size : 470x510x850 mm</p>
-                    <div class="portfolio-links">
-                      <a href="assets/img/kp_image/bath_sink/36.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="BATH SINK 31"><i class="bx bx-plus"></i></a>
-                       <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
-                    </div>
-                  </div>
-                </div>
-              </div>
-
-              <div class="col-lg-4 col-md-6 portfolio-item filter-bathsink">
-                <div class="portfolio-wrap">
-                  <img src="assets/img/kp_image/bath_sink/37.png" class="img-fluid" alt="">
-                  <div class="portfolio-info">
-                    <h4>9003</h4>
-                    <p>BATH SINK</p>
-                    <p>Size : 510x460x850 mm</p>
-                    <div class="portfolio-links">
-                      <a href="assets/img/kp_image/bath_sink/37.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="BATH SINK 32"><i class="bx bx-plus"></i></a>
-                       <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
-                    </div>
-                  </div>
-                </div>
-              </div>
-
-              <div class="col-lg-4 col-md-6 portfolio-item filter-bathsink">
-                <div class="portfolio-wrap">
-                  <img src="assets/img/kp_image/bath_sink/38.png" class="img-fluid" alt="">
-                  <div class="portfolio-info">
-                    <h4>9005</h4>
-                    <p>BATH SINK</p>
-                    <p>Size : 460x540x860 mm</p>
-                    <div class="portfolio-links">
-                      <a href="assets/img/kp_image/bath_sink/38.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="BATH SINK 33"><i class="bx bx-plus"></i></a>
-                       <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
-                    </div>
-                  </div>
-                </div>
-              </div>
-
-              <div class="col-lg-4 col-md-6 portfolio-item filter-bathsink">
-                <div class="portfolio-wrap">
-                  <img src="assets/img/kp_image/bath_sink/39.png" class="img-fluid" alt="">
-                  <div class="portfolio-info">
-                    <h4>9007</h4>
-                    <p>BATH SINK</p>
-                    <p>Size : 650x450x820 mm</p>
-                    <div class="portfolio-links">
-                      <a href="assets/img/kp_image/bath_sink/39.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="BATH SINK 34"><i class="bx bx-plus"></i></a>
-                       <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
-                    </div>
-                  </div>
-                </div>
-              </div>
-
-              <div class="col-lg-4 col-md-6 portfolio-item filter-bathsink">
-                <div class="portfolio-wrap">
-                  <img src="assets/img/kp_image/bath_sink/40.png" class="img-fluid" alt="">
-                  <div class="portfolio-info">
-                    <h4>9008</h4>
-                    <p>BATH SINK</p>
-                    <p>Size : 450x460x970 mm</p>
-                    <div class="portfolio-links">
-                      <a href="assets/img/kp_image/bath_sink/40.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="BATH SINK 35"><i class="bx bx-plus"></i></a>
-                       <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
-                    </div>
-                  </div>
-                </div>
-              </div>
-
-              <div class="col-lg-4 col-md-6 portfolio-item filter-bathsink">
-                <div class="portfolio-wrap">
-                  <img src="assets/img/kp_image/bath_sink/41.png" class="img-fluid" alt="">
-                  <div class="portfolio-info">
-                    <h4>9010</h4>
-                    <p>BATH SINK</p>
-                    <p>Size : 460x540x840 mm</p>
-                    <div class="portfolio-links">
-                      <a href="assets/img/kp_image/bath_sink/41.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="BATH SINK 34"><i class="bx bx-plus"></i></a>
-                       <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
-                    </div>
-                  </div>
-                </div>
-              </div>
-
-              <div class="col-lg-4 col-md-6 portfolio-item filter-bathsink">
-                <div class="portfolio-wrap">
-                  <img src="assets/img/kp_image/bath_sink/42.png" class="img-fluid" alt="">
-                  <div class="portfolio-info">
-                    <h4>9011</h4>
-                    <p>BATH SINK</p>
-                    <p>Size : 610x610x880 mm</p>
-                    <div class="portfolio-links">
-                      <a href="assets/img/kp_image/bath_sink/42.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="BATH SINK 35"><i class="bx bx-plus"></i></a>
-                       <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
-                    </div>
-                  </div>
-                </div>
-              </div>
-
-                <div class="col-lg-4 col-md-6 portfolio-item filter-mirror">
-                    <div class="portfolio-wrap">
-                      <img src="assets/img/kp_image/mirror/1.png" class="img-fluid" alt="">
-                      <div class="portfolio-info">
-                        <h4>C1</h4>
-                        <p>MIRROR</p>
-                        <p>Size : 80x60 cm</p>
-                        <div class="portfolio-links">
-                          <a href="assets/img/kp_image/mirror/1.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Mirror 1"><i class="bx bx-plus"></i></a>
-                           <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
-                        </div>
-                      </div>
-                    </div>
-                </div>
-
-                <div class="col-lg-4 col-md-6 portfolio-item filter-mirror">
-                    <div class="portfolio-wrap">
-                      <img src="assets/img/kp_image/mirror/2.png" class="img-fluid" alt="">
-                      <div class="portfolio-info">
-                        <h4>C2</h4>
-                        <p>MIRROR</p>
-                        <p>Size : 45x65 cm & 60x80 cm</p>
-                        <div class="portfolio-links">
-                          <a href="assets/img/kp_image/mirror/2.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Mirror 1"><i class="bx bx-plus"></i></a>
-                           <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
-                        </div>
-                      </div>
-                    </div>
-                </div>
-
-                <div class="col-lg-4 col-md-6 portfolio-item filter-mirror">
-                    <div class="portfolio-wrap">
-                      <img src="assets/img/kp_image/mirror/3.png" class="img-fluid" alt="">
-                      <div class="portfolio-info">
-                        <h4>C3</h4>
-                        <p>MIRROR</p>
-                        <p>Size : 70x70 cm & 60x80 cm</p>
-                        <div class="portfolio-links">
-                          <a href="assets/img/kp_image/mirror/3.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Mirror 1"><i class="bx bx-plus"></i></a>
-                           <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
-                        </div>
-                      </div>
-                    </div>
-                </div>
-
-                <div class="col-lg-4 col-md-6 portfolio-item filter-mirror">
-                    <div class="portfolio-wrap">
-                      <img src="assets/img/kp_image/mirror/4.png" class="img-fluid" alt="">
-                      <div class="portfolio-info">
-                        <h4>C5</h4>
-                        <p>MIRROR</p>
-                        <p>Size : 70x70 cm</p>
-                        <div class="portfolio-links">
-                          <a href="assets/img/kp_image/mirror/4.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Mirror 1"><i class="bx bx-plus"></i></a>
-                           <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
-                        </div>
-                      </div>
-                    </div>
-                </div>
-
-                <div class="col-lg-4 col-md-6 portfolio-item filter-mirror">
-                    <div class="portfolio-wrap">
-                      <img src="assets/img/kp_image/mirror/5.png" class="img-fluid" alt="">
-                      <div class="portfolio-info">
-                        <h4>C6</h4>
-                        <p>MIRROR</p>
-                        <p>Size : 45x65 cm & 60x80 cm</p>
-                        <div class="portfolio-links">
-                          <a href="assets/img/kp_image/mirror/5.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Mirror 1"><i class="bx bx-plus"></i></a>
-                           <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
-                        </div>
-                      </div>
-                    </div>
-                </div>
-
-                <div class="col-lg-4 col-md-6 portfolio-item filter-mirror">
-                    <div class="portfolio-wrap">
-                      <img src="assets/img/kp_image/mirror/6.png" class="img-fluid" alt="">
-                      <div class="portfolio-info">
-                        <h4>C7</h4>
-                        <p>MIRROR</p>
-                        <p>Size : 45x65 cm & 60x80 cm</p>
-                        <div class="portfolio-links">
-                          <a href="assets/img/kp_image/mirror/6.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Mirror 1"><i class="bx bx-plus"></i></a>
-                           <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
-                        </div>
-                      </div>
-                    </div>
-                </div>
-
-                <div class="col-lg-4 col-md-6 portfolio-item filter-mirror">
-                    <div class="portfolio-wrap">
-                      <img src="assets/img/kp_image/mirror/7.png" class="img-fluid" alt="">
-                      <div class="portfolio-info">
-                        <h4>C8</h4>
-                        <p>MIRROR</p>
-                        <p>Size : 50x50 cm & 60x80 cm</p>
-                        <div class="portfolio-links">
-                          <a href="assets/img/kp_image/mirror/7.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Mirror 1"><i class="bx bx-plus"></i></a>
-                           <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
-                        </div>
-                      </div>
-                    </div>
-                </div>
-
-                <div class="col-lg-4 col-md-6 portfolio-item filter-mirror">
-                    <div class="portfolio-wrap">
-                      <img src="assets/img/kp_image/mirror/8.png" class="img-fluid" alt="">
-                      <div class="portfolio-info">
-                        <h4>C9</h4>
-                        <p>MIRROR</p>
-                        <p>Size : 45x65 cm & 60x80 cm</p>
-                        <div class="portfolio-links">
-                          <a href="assets/img/kp_image/mirror/8.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Mirror 1"><i class="bx bx-plus"></i></a>
-                           <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
-                        </div>
-                      </div>
-                    </div>
-                </div>
-
-                <div class="col-lg-4 col-md-6 portfolio-item filter-mirror">
-                    <div class="portfolio-wrap">
-                      <img src="assets/img/kp_image/mirror/9.png" class="img-fluid" alt="">
-                      <div class="portfolio-info">
-                        <h4>C10</h4>
-                        <p>MIRROR</p>
-                        <p>Size : 70x70 cm & 60x80 cm</p>
-                        <div class="portfolio-links">
-                          <a href="assets/img/kp_image/mirror/9.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Mirror 1"><i class="bx bx-plus"></i></a>
-                           <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
-                        </div>
-                      </div>
-                    </div>
-                </div>
-
-                <div class="col-lg-4 col-md-6 portfolio-item filter-mirror">
-                    <div class="portfolio-wrap">
-                      <img src="assets/img/kp_image/mirror/10.png" class="img-fluid" alt="">
-                      <div class="portfolio-info">
-                        <h4>C11</h4>
-                        <p>MIRROR</p>
-                        <p>Size : 70x70 cm</p>
-                        <div class="portfolio-links">
-                          <a href="assets/img/kp_image/mirror/10.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Mirror 1"><i class="bx bx-plus"></i></a>
-                           <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
-                        </div>
-                      </div>
-                    </div>
-                </div>
-
-                <div class="col-lg-4 col-md-6 portfolio-item filter-mirror">
-                    <div class="portfolio-wrap">
-                      <img src="assets/img/kp_image/mirror/11.png" class="img-fluid" alt="">
-                      <div class="portfolio-info">
-                        <h4>C12</h4>
-                        <p>MIRROR</p>
-                        <p>Size : 90x60 cm</p>
-                        <div class="portfolio-links">
-                          <a href="assets/img/kp_image/mirror/11.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Mirror 1"><i class="bx bx-plus"></i></a>
-                           <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
-                        </div>
-                      </div>
-                    </div>
-                </div>
-
-                <div class="col-lg-4 col-md-6 portfolio-item filter-mirror">
-                    <div class="portfolio-wrap">
-                      <img src="assets/img/kp_image/mirror/12.png" class="img-fluid" alt="">
-                      <div class="portfolio-info">
-                        <h4>C15</h4>
-                        <p>MIRROR</p>
-                        <p>Size : 60x80 cm</p>
-                        <div class="portfolio-links">
-                          <a href="assets/img/kp_image/mirror/12.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Mirror 1"><i class="bx bx-plus"></i></a>
-                           <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
-                        </div>
-                      </div>
-                    </div>
-                </div>
-
-                <div class="col-lg-4 col-md-6 portfolio-item filter-sanitary">
-                    <div class="portfolio-wrap">
-                      <img src="assets/img/kp_image/sanitary/1.png" class="img-fluid" alt="">
-                      <div class="portfolio-info">
-                        <h4>5007</h4>
-                        <p>SANITARY</p>
-                        <p>Size : 690x370x760 mm</p>
-                        <p>Rough in 300 mm</p>
-                        <p>Pattern Type (In Picture)</p>
-                        <div class="portfolio-links">
-                          <a href="assets/img/kp_image/sanitary/1.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Sanitary 1"><i class="bx bx-plus"></i></a>
-                           <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
-                        </div>
-                      </div>
-                    </div>
-                </div>
-
-                <div class="col-lg-4 col-md-6 portfolio-item filter-sanitary">
-                    <div class="portfolio-wrap">
-                      <img src="assets/img/kp_image/sanitary/2.png" class="img-fluid" alt="">
-                      <div class="portfolio-info">
-                        <h4>5008</h4>
-                        <p>SANITARY</p>
-                        <p>Size : 690x370x760 mm</p>
-                        <p>Rough in 500 mm</p>
-                        <p>Pattern Type (In Picture)</p>
-                        <div class="portfolio-links">
-                          <a href="assets/img/kp_image/sanitary/2.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Sanitary 1"><i class="bx bx-plus"></i></a>
-                           <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
-                        </div>
-                      </div>
-                    </div>
-                </div>
-
-                <div class="col-lg-4 col-md-6 portfolio-item filter-sanitary">
-                    <div class="portfolio-wrap">
-                      <img src="assets/img/kp_image/sanitary/3.png" class="img-fluid" alt="">
-                      <div class="portfolio-info">
-                        <h4>8015</h4>
-                        <p>SANITARY</p>
-                        <p>Size : 670x430x570 mm</p>
-                        <p>Rough in 300 mm</p>
-                        <p>Pattern Type (In Picture)</p>
-                        <div class="portfolio-links">
-                          <a href="assets/img/kp_image/sanitary/3.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Sanitary 1"><i class="bx bx-plus"></i></a>
-                           <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
-                        </div>
-                      </div>
-                    </div>
-                </div>
-
-                <div class="col-lg-4 col-md-6 portfolio-item filter-sanitary">
-                    <div class="portfolio-wrap">
-                      <img src="assets/img/kp_image/sanitary/4.png" class="img-fluid" alt="">
-                      <div class="portfolio-info">
-                        <h4>nama produk</h4>
-                        <p>Sanitary</p>
-                        <div class="portfolio-links">
-                          <a href="assets/img/kp_image/sanitary/4.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Sanitary 1"><i class="bx bx-plus"></i></a>
-                           <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
-                        </div>
-                      </div>
-                    </div>
-                </div>
-
-                <div class="col-lg-4 col-md-6 portfolio-item filter-sanitary">
-                    <div class="portfolio-wrap">
-                      <img src="assets/img/kp_image/sanitary/5.png" class="img-fluid" alt="">
-                      <div class="portfolio-info">
-                        <h4>6001</h4>
-                        <p>SANITARY</p>
-                        <p>Size : 330x310x600 mm</p>
-                        <div class="portfolio-links">
-                          <a href="assets/img/kp_image/sanitary/5.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Sanitary 1"><i class="bx bx-plus"></i></a>
-                           <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
-                        </div>
-                      </div>
-                    </div>
-                </div>
-
-                <div class="col-lg-4 col-md-6 portfolio-item filter-sanitary">
-                    <div class="portfolio-wrap">
-                      <img src="assets/img/kp_image/sanitary/6.png" class="img-fluid" alt="">
-                      <div class="portfolio-info">
-                        <h4>6001M</h4>
-                        <p>SANITARY</p>
-                        <p>Size : 330x310x600 mm</p>
-                        <div class="portfolio-links">
-                          <a href="assets/img/kp_image/sanitary/6.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Sanitary 1"><i class="bx bx-plus"></i></a>
-                           <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
-                        </div>
-                      </div>
-                    </div>
-                </div>
-
-                <div class="col-lg-4 col-md-6 portfolio-item filter-sanitary">
-                    <div class="portfolio-wrap">
-                      <img src="assets/img/kp_image/sanitary/7.png" class="img-fluid" alt="">
-                      <div class="portfolio-info">
-                        <h4>6005 / 6005M</h4>
-                        <p>SANITARY</p>
-                        <p>Size : 460x330x700 mm</p>
-                        <div class="portfolio-links">
-                          <a href="assets/img/kp_image/sanitary/7.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Sanitary 1"><i class="bx bx-plus"></i></a>
-                           <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
-                        </div>
-                      </div>
-                    </div>
-                </div>
-
-                <div class="col-lg-4 col-md-6 portfolio-item filter-sanitary">
-                    <div class="portfolio-wrap">
-                      <img src="assets/img/kp_image/sanitary/8.png" class="img-fluid" alt="">
-                      <div class="portfolio-info">
-                        <h4>5008</h4>
-                        <p>SANITARY</p>
-                        <p>Size : 690x370x760 mm</p>
-                        <div class="portfolio-links">
-                          <a href="assets/img/kp_image/sanitary/8.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Sanitary 1"><i class="bx bx-plus"></i></a>
-                           <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
-                        </div>
-                      </div>
-                    </div>
-                </div>
-
-                <div class="col-lg-4 col-md-6 portfolio-item filter-sanitary">
-                    <div class="portfolio-wrap">
-                      <img src="assets/img/kp_image/sanitary/9.png" class="img-fluid" alt="">
-                      <div class="portfolio-info">
-                        <h4>5007</h4>
-                        <p>SANITARY</p>
-                        <p>Size : 690x370x760 mm</p>
-                        <div class="portfolio-links">
-                          <a href="assets/img/kp_image/sanitary/9.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Sanitary 1"><i class="bx bx-plus"></i></a>
-                           <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
-                        </div>
-                      </div>
-                    </div>
-                </div>
-
-                <div class="col-lg-4 col-md-6 portfolio-item filter-sanitary">
-                    <div class="portfolio-wrap">
-                      <img src="assets/img/kp_image/sanitary/10.png" class="img-fluid" alt="">
-                      <div class="portfolio-info">
-                        <h4>6065 / 6065M</h4>
-                        <p>SANITARY</p>
-                        <p>Size : 420x400x990 mm</p>
-                        <div class="portfolio-links">
-                          <a href="assets/img/kp_image/sanitary/10.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Sanitary 1"><i class="bx bx-plus"></i></a>
-                           <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
-                        </div>
-                      </div>
-                    </div>
-                </div>
-
-                <div class="col-lg-4 col-md-6 portfolio-item filter-sanitary">
-                    <div class="portfolio-wrap">
-                      <img src="assets/img/kp_image/sanitary/11.png" class="img-fluid" alt="">
-                      <div class="portfolio-info">
-                        <h4>8010</h4>
-                        <p>SANITARY</p>
-                        <p>Size : 710x370x800 mm</p>
-                        <div class="portfolio-links">
-                          <a href="assets/img/kp_image/sanitary/11.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Sanitary 1"><i class="bx bx-plus"></i></a>
-                           <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
-                        </div>
-                      </div>
-                    </div>
-                </div>
-
-                <div class="col-lg-4 col-md-6 portfolio-item filter-sanitary">
-                    <div class="portfolio-wrap">
-                      <img src="assets/img/kp_image/sanitary/12.png" class="img-fluid" alt="">
-                      <div class="portfolio-info">
-                        <h4>8015</h4>
-                        <p>SANITARY</p>
-                        <p>Size : 670x430x570 mm</p>
-                        <div class="portfolio-links">
-                          <a href="assets/img/kp_image/sanitary/12.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Sanitary 1"><i class="bx bx-plus"></i></a>
-                           <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
-                        </div>
-                      </div>
-                    </div>
-                </div>
-
-
-
+          <div class="col-lg-4 col-md-6 portfolio-item filter-bathcabinet">
+            <div class="portfolio-wrap">
+              <img src="assets/img/kp_image/bath_cabinet/2.png" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4>7002</h4>
+                <p>BATH CABINET</p>
+                <p>CABINET SIZE: 580x460x660 mm</p>
+                <div class="portfolio-links">
+                  <a href="assets/img/kp_image/bath_cabinet/2.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Bath Cabinet 2"><i class="bx bx-plus"></i></a>
+                  <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
+                </div>
+              </div>
+            </div>
           </div>
 
+          <div class="col-lg-4 col-md-6 portfolio-item filter-bathcabinet">
+            <div class="portfolio-wrap">
+              <img src="assets/img/kp_image/bath_cabinet/3.png" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4>7003</h4>
+                <p>BATH CABINET</p>
+                <p>CABINET SIZE: 500x500x670 mm</p>
+                <div class="portfolio-links">
+                  <a href="assets/img/kp_image/bath_cabinet/3.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Bath Cabinet 3"><i class="bx bx-plus"></i></a>
+                  <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-bathcabinet">
+            <div class="portfolio-wrap">
+              <img src="assets/img/kp_image/bath_cabinet/4.png" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4>7005</h4>
+                <p>BATH CABINET</p>
+                <p>CABINET SIZE: 800x500x660 mm</p>
+                <div class="portfolio-links">
+                  <a href="assets/img/kp_image/bath_cabinet/4.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Bath Cabinet 4"><i class="bx bx-plus"></i></a>
+                  <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-bathcabinet">
+            <div class="portfolio-wrap">
+              <img src="assets/img/kp_image/bath_cabinet/5.png" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4>7006</h4>
+                <p>BATH CABINET</p>
+                <p>Cabinet Size : 900x820x500 mm</p>
+                <div class="portfolio-links">
+                  <a href="assets/img/kp_image/bath_cabinet/5.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Bath Cabinet 5"><i class="bx bx-plus"></i></a>
+                  <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-bathcabinet">
+            <div class="portfolio-wrap">
+              <img src="assets/img/kp_image/bath_cabinet/6.png" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4>7007</h4>
+                <p>BATH CABINET</p>
+                <p>Cabinet Size : 550x680x350 mm</p>
+                <div class="portfolio-links">
+                  <a href="assets/img/kp_image/bath_cabinet/6.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Bath Cabinet 6"><i class="bx bx-plus"></i></a>
+                  <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-bathcabinet">
+            <div class="portfolio-wrap">
+              <img src="assets/img/kp_image/bath_cabinet/7.png" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4>7008</h4>
+                <p>BATH CABINET</p>
+                <p>Cabinet Size : 410x700x410 mm</p>
+                <div class="portfolio-links">
+                  <a href="assets/img/kp_image/bath_cabinet/7.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Bath Cabinet 7"><i class="bx bx-plus"></i></a>
+                  <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-bathcabinet">
+            <div class="portfolio-wrap">
+              <img src="assets/img/kp_image/bath_cabinet/8.png" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4>7009</h4>
+                <p>BATH CABINET</p>
+                <p>Cabinet Size : 450x720x400 mm</p>
+                <div class="portfolio-links">
+                  <a href="assets/img/kp_image/bath_cabinet/8.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Bath Cabinet 8"><i class="bx bx-plus"></i></a>
+                  <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-bathcabinet">
+            <div class="portfolio-wrap">
+              <img src="assets/img/kp_image/bath_cabinet/9.png" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4>7010</h4>
+                <p>BATH CABINET</p>
+                <p>Cabinet Size : 900x790x450 mm</p>
+                <div class="portfolio-links">
+                  <a href="assets/img/kp_image/bath_cabinet/9.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Bath Cabinet 9"><i class="bx bx-plus"></i></a>
+                  <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-bathcabinet">
+            <div class="portfolio-wrap">
+              <img src="assets/img/kp_image/bath_cabinet/10.png" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4>7011</h4>
+                <p>BATH CABINET</p>
+                <p>Cabinet Size : 420x660x460 mm</p>
+                <div class="portfolio-links">
+                  <a href="assets/img/kp_image/bath_cabinet/10.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Bath Cabinet 10"><i class="bx bx-plus"></i></a>
+                  <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-bathcabinet">
+            <div class="portfolio-wrap">
+              <img src="assets/img/kp_image/bath_cabinet/11.png" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4>7012</h4>
+                <p>BATH CABINET</p>
+                <p>Cabinet Size : 490x395x560 mm</p>
+                <div class="portfolio-links">
+                  <a href="assets/img/kp_image/bath_cabinet/11.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Bath Cabinet 11"><i class="bx bx-plus"></i></a>
+                  <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-bathcabinet">
+            <div class="portfolio-wrap">
+              <img src="assets/img/kp_image/bath_cabinet/12.png" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4>7015</h4>
+                <p>BATH CABINET</p>
+                <p>Cabinet Size : 460x460x570 mm</p>
+                <div class="portfolio-links">
+                  <a href="assets/img/kp_image/bath_cabinet/12.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Bath Cabinet 12"><i class="bx bx-plus"></i></a>
+                  <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-bathcabinet">
+            <div class="portfolio-wrap">
+              <img src="assets/img/kp_image/bath_cabinet/13.png" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4>7016</h4>
+                <p>BATH CABINET</p>
+                <p>Cabinet Size : 430x450x470 mm</p>
+                <div class="portfolio-links">
+                  <a href="assets/img/kp_image/bath_cabinet/13.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Bath Cabinet 13"><i class="bx bx-plus"></i></a>
+                  <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-bathcabinet">
+            <div class="portfolio-wrap">
+              <img src="assets/img/kp_image/bath_cabinet/14.png" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4>7017</h4>
+                <p>BATH CABINET</p>
+                <p>Cabinet Size : 750x500x500 mm</p>
+                <div class="portfolio-links">
+                  <a href="assets/img/kp_image/bath_cabinet/14.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Bath Cabinet 14"><i class="bx bx-plus"></i></a>
+                  <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-bathcabinet">
+            <div class="portfolio-wrap">
+              <img src="assets/img/kp_image/bath_cabinet/15.png" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4>7018</h4>
+                <p>BATH CABINET</p>
+                <p>Cabinet Size : 320x290x970 mm</p>
+                <div class="portfolio-links">
+                  <a href="assets/img/kp_image/bath_cabinet/15.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Bath Cabinet 15"><i class="bx bx-plus"></i></a>
+                  <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-bathcabinet">
+            <div class="portfolio-wrap">
+              <img src="assets/img/kp_image/bath_cabinet/16.png" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4>7019</h4>
+                <p>BATH CABINET</p>
+                <p>Cabinet Size : 440x450x370 mm</p>
+                <div class="portfolio-links">
+                  <a href="assets/img/kp_image/bath_cabinet/16.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Bath Cabinet 16"><i class="bx bx-plus"></i></a>
+                  <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-bathcabinet">
+            <div class="portfolio-wrap">
+              <img src="assets/img/kp_image/bath_cabinet/17.png" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4>7020</h4>
+                <p>BATH CABINET</p>
+                <p>Cabinet Size : 880x430x550 mm</p>
+                <div class="portfolio-links">
+                  <a href="assets/img/kp_image/bath_cabinet/17.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Bath Cabinet 17"><i class="bx bx-plus"></i></a>
+                  <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-bathcabinet">
+            <div class="portfolio-wrap">
+              <img src="assets/img/kp_image/bath_cabinet/18.png" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4>7022</h4>
+                <p>BATH CABINET</p>
+                <p>Cabinet Size : 780x430x580 mm</p>
+                <div class="portfolio-links">
+                  <a href="assets/img/kp_image/bath_cabinet/18.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Bath Cabinet 18"><i class="bx bx-plus"></i></a>
+                  <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-bathcabinet">
+            <div class="portfolio-wrap">
+              <img src="assets/img/kp_image/bath_cabinet/19.png" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4>7021</h4>
+                <p>BATH CABINET</p>
+                <p>Cabinet Size : 750x490x470 mm</p>
+                <div class="portfolio-links">
+                  <a href="assets/img/kp_image/bath_cabinet/19.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Bath Cabinet 19"><i class="bx bx-plus"></i></a>
+                  <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-bathcabinet">
+            <div class="portfolio-wrap">
+              <img src="assets/img/kp_image/bath_cabinet/20.png" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4>7023</h4>
+                <p>BATH CABINET</p>
+                <p>Cabinet Size : 780x430x580 mm</p>
+                <div class="portfolio-links">
+                  <a href="assets/img/kp_image/bath_cabinet/20.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Bath Cabinet 20"><i class="bx bx-plus"></i></a>
+                  <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-bathcabinet">
+            <div class="portfolio-wrap">
+              <img src="assets/img/kp_image/bath_cabinet/21.png" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4>7025</h4>
+                <p>BATH CABINET</p>
+                <p>Cabinet Size : 500x530x660 mm</p>
+                <div class="portfolio-links">
+                  <a href="assets/img/kp_image/bath_cabinet/21.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Bath Cabinet 21"><i class="bx bx-plus"></i></a>
+                  <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-bathcabinet">
+            <div class="portfolio-wrap">
+              <img src="assets/img/kp_image/bath_cabinet/22.png" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4>7026</h4>
+                <p>BATH CABINET</p>
+                <p>Cabinet Size : 450x450x450 mm</p>
+                <div class="portfolio-links">
+                  <a href="assets/img/kp_image/bath_cabinet/22.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Bath Cabinet 22"><i class="bx bx-plus"></i></a>
+                  <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-bathcabinet">
+            <div class="portfolio-wrap">
+              <img src="assets/img/kp_image/bath_cabinet/23.png" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4>7027</h4>
+                <p>BATH CABINET</p>
+                <p>Cabinet Size : 600x500x780 mm</p>
+                <div class="portfolio-links">
+                  <a href="assets/img/kp_image/bath_cabinet/23.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Bath Cabinet 23"><i class="bx bx-plus"></i></a>
+                  <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-bathcabinet">
+            <div class="portfolio-wrap">
+              <img src="assets/img/kp_image/bath_cabinet/24.png" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4>7028</h4>
+                <p>BATH CABINET</p>
+                <p>Cabinet Size : 880x630x680 mm</p>
+                <div class="portfolio-links">
+                  <a href="assets/img/kp_image/bath_cabinet/24.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Bath Cabinet 24"><i class="bx bx-plus"></i></a>
+                  <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-bathcabinet">
+            <div class="portfolio-wrap">
+              <img src="assets/img/kp_image/bath_cabinet/25.png" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4>7029</h4>
+                <p>BATH CABINET</p>
+                <p>Cabinet Size : 420x420x560 mm</p>
+                <div class="portfolio-links">
+                  <a href="assets/img/kp_image/bath_cabinet/25.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Bath Cabinet 25"><i class="bx bx-plus"></i></a>
+                  <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-bathcabinet">
+            <div class="portfolio-wrap">
+              <img src="assets/img/kp_image/bath_cabinet/26.png" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4>7030</h4>
+                <p>BATH CABINET</p>
+                <p>Cabinet Size : 595x500x560 mm</p>
+                <div class="portfolio-links">
+                  <a href="assets/img/kp_image/bath_cabinet/26.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Bath Cabinet 26"><i class="bx bx-plus"></i></a>
+                  <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-bathsink">
+            <div class="portfolio-wrap">
+              <img src="assets/img/kp_image/bath_sink/1.png" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4>1001</h4>
+                <p>BATH SINK</p>
+                <p>Size : 430x430x170 mm</p>
+                <div class="portfolio-links">
+                  <a href="assets/img/kp_image/bath_sink/1.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="BATH SINK 1"><i class="bx bx-plus"></i></a>
+                  <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-bathsink">
+            <div class="portfolio-wrap">
+              <img src="assets/img/kp_image/bath_sink/2.png" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4>1002</h4>
+                <p>BATH SINK</p>
+                <p>Size : 415x415x160 mm</p>
+                <div class="portfolio-links">
+                  <a href="assets/img/kp_image/bath_sink/2.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="BATH SINK 2"><i class="bx bx-plus"></i></a>
+                  <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-bathsink">
+            <div class="portfolio-wrap">
+              <img src="assets/img/kp_image/bath_sink/3.png" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4>1003</h4>
+                <p>BATH SINK</p>
+                <p>Size : 460x460x165 mm</p>
+                <div class="portfolio-links">
+                  <a href="assets/img/kp_image/bath_sink/3.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="BATH SINK 3"><i class="bx bx-plus"></i></a>
+                  <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-bathsink">
+            <div class="portfolio-wrap">
+              <img src="assets/img/kp_image/bath_sink/4.png" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4>1005</h4>
+                <p>BATH SINK</p>
+                <p>Size : 500x500x165 mm</p>
+                <div class="portfolio-links">
+                  <a href="assets/img/kp_image/bath_sink/4.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="BATH SINK 4"><i class="bx bx-plus"></i></a>
+                  <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-bathsink">
+            <div class="portfolio-wrap">
+              <img src="assets/img/kp_image/bath_sink/5.png" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4>1006</h4>
+                <p>BATH SINK</p>
+                <p>Size : 390x390x170 mm</p>
+                <div class="portfolio-links">
+                  <a href="assets/img/kp_image/bath_sink/5.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="BATH SINK 5"><i class="bx bx-plus"></i></a>
+                  <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-bathsink">
+            <div class="portfolio-wrap">
+              <img src="assets/img/kp_image/bath_sink/6.png" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4>1007</h4>
+                <p>BATH SINK</p>
+                <p>Size : 590x385x190 mm</p>
+                <div class="portfolio-links">
+                  <a href="assets/img/kp_image/bath_sink/6.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="BATH SINK 6"><i class="bx bx-plus"></i></a>
+                  <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-bathsink">
+            <div class="portfolio-wrap">
+              <img src="assets/img/kp_image/bath_sink/7.png" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4>1008</h4>
+                <p>BATH SINK</p>
+                <p>Size : 410x340x145 mm</p>
+                <div class="portfolio-links">
+                  <a href="assets/img/kp_image/bath_sink/7.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="BATH SINK 7"><i class="bx bx-plus"></i></a>
+                  <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-bathsink">
+            <div class="portfolio-wrap">
+              <img src="assets/img/kp_image/bath_sink/8.png" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4>1009</h4>
+                <p>BATH SINK</p>
+                <p>Size : 590x400x220 mm</p>
+                <div class="portfolio-links">
+                  <a href="assets/img/kp_image/bath_sink/8.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="BATH SINK 8"><i class="bx bx-plus"></i></a>
+                  <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-bathsink">
+            <div class="portfolio-wrap">
+              <img src="assets/img/kp_image/bath_sink/9.png" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4>1010</h4>
+                <p>BATH SINK</p>
+                <p>Size : 450x450x170 mm</p>
+                <div class="portfolio-links">
+                  <a href="assets/img/kp_image/bath_sink/9.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="BATH SINK 9"><i class="bx bx-plus"></i></a>
+                  <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-bathsink">
+            <div class="portfolio-wrap">
+              <img src="assets/img/kp_image/bath_sink/10.png" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4>1011</h4>
+                <p>BATH SINK</p>
+                <p>Size : 470x470x180 mm</p>
+                <div class="portfolio-links">
+                  <a href="assets/img/kp_image/bath_sink/10.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="BATH SINK 10"><i class="bx bx-plus"></i></a>
+                  <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-bathsink">
+            <div class="portfolio-wrap">
+              <img src="assets/img/kp_image/bath_sink/11.png" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4>1012</h4>
+                <p>BATH SINK</p>
+                <p>Size : 555x345x140 mm</p>
+                <div class="portfolio-links">
+                  <a href="assets/img/kp_image/bath_sink/11.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="BATH SINK 11"><i class="bx bx-plus"></i></a>
+                  <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-bathsink">
+            <div class="portfolio-wrap">
+              <img src="assets/img/kp_image/bath_sink/12.png" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4>1015</h4>
+                <p>BATH SINK</p>
+                <p>Size : 420x400x260 mm</p>
+                <div class="portfolio-links">
+                  <a href="assets/img/kp_image/bath_sink/12.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="BATH SINK 12"><i class="bx bx-plus"></i></a>
+                  <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-bathsink">
+            <div class="portfolio-wrap">
+              <img src="assets/img/kp_image/bath_sink/13.png" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4>1016</h4>
+                <p>BATH SINK</p>
+                <p>Size : 475x465x180 mm</p>
+                <div class="portfolio-links">
+                  <a href="assets/img/kp_image/bath_sink/13.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="BATH SINK 13"><i class="bx bx-plus"></i></a>
+                  <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-bathsink">
+            <div class="portfolio-wrap">
+              <img src="assets/img/kp_image/bath_sink/14.png" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4>1317</h4>
+                <p>BATH SINK</p>
+                <p>Size : 410x415x170 mm</p>
+                <div class="portfolio-links">
+                  <a href="assets/img/kp_image/bath_sink/14.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="BATH SINK 14"><i class="bx bx-plus"></i></a>
+                  <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-bathsink">
+            <div class="portfolio-wrap">
+              <img src="assets/img/kp_image/bath_sink/15.png" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4>1319</h4>
+                <p>BATH SINK</p>
+                <p>Size : 460x460x160 mm</p>
+                <div class="portfolio-links">
+                  <a href="assets/img/kp_image/bath_sink/15.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="BATH SINK 15"><i class="bx bx-plus"></i></a>
+                  <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-bathsink">
+            <div class="portfolio-wrap">
+              <img src="assets/img/kp_image/bath_sink/16.png" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4>1321</h4>
+                <p>BATH SINK</p>
+                <p>Size : 410x410x150 mm</p>
+                <div class="portfolio-links">
+                  <a href="assets/img/kp_image/bath_sink/16.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="BATH SINK 16"><i class="bx bx-plus"></i></a>
+                  <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-bathsink">
+            <div class="portfolio-wrap">
+              <img src="assets/img/kp_image/bath_sink/17.png" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4>1323</h4>
+                <p>BATH SINK</p>
+                <p>Size : 580x460x160 mm</p>
+                <div class="portfolio-links">
+                  <a href="assets/img/kp_image/bath_sink/17.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="BATH SINK 17"><i class="bx bx-plus"></i></a>
+                  <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-bathsink">
+            <div class="portfolio-wrap">
+              <img src="assets/img/kp_image/bath_sink/18.png" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4>1325</h4>
+                <p>BATH SINK</p>
+                <p>Size : 550x400x220 mm</p>
+                <div class="portfolio-links">
+                  <a href="assets/img/kp_image/bath_sink/18.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="BATH SINK 18"><i class="bx bx-plus"></i></a>
+                  <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-bathsink">
+            <div class="portfolio-wrap">
+              <img src="assets/img/kp_image/bath_sink/19.png" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4>1327</h4>
+                <p>BATH SINK</p>
+                <p>Size : 475x365x130 mm</p>
+                <div class="portfolio-links">
+                  <a href="assets/img/kp_image/bath_sink/19.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="BATH SINK 19"><i class="bx bx-plus"></i></a>
+                  <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-bathsink">
+            <div class="portfolio-wrap">
+              <img src="assets/img/kp_image/bath_sink/20.png" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4>1331</h4>
+                <p>BATH SINK</p>
+                <p>Size : 650x470x150 mm</p>
+                <div class="portfolio-links">
+                  <a href="assets/img/kp_image/bath_sink/20.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="BATH SINK 20"><i class="bx bx-plus"></i></a>
+                  <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-bathsink">
+            <div class="portfolio-wrap">
+              <img src="assets/img/kp_image/bath_sink/21.png" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4>1335</h4>
+                <p>BATH SINK</p>
+                <p>Size : 475x475x160 mm</p>
+                <div class="portfolio-links">
+                  <a href="assets/img/kp_image/bath_sink/21.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="BATH SINK 21"><i class="bx bx-plus"></i></a>
+                  <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-bathsink">
+            <div class="portfolio-wrap">
+              <img src="assets/img/kp_image/bath_sink/22.png" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4>1337</h4>
+                <p>BATH SINK</p>
+                <p>Size : 420x420x165 mm</p>
+                <div class="portfolio-links">
+                  <a href="assets/img/kp_image/bath_sink/22.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="BATH SINK 22"><i class="bx bx-plus"></i></a>
+                  <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-bathsink">
+            <div class="portfolio-wrap">
+              <img src="assets/img/kp_image/bath_sink/23.png" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4>1339</h4>
+                <p>BATH SINK</p>
+                <p>Size : 530x500x165 mm</p>
+                <div class="portfolio-links">
+                  <a href="assets/img/kp_image/bath_sink/23.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="BATH SINK 23"><i class="bx bx-plus"></i></a>
+                  <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-bathsink">
+            <div class="portfolio-wrap">
+              <img src="assets/img/kp_image/bath_sink/24.png" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4>1350</h4>
+                <p>BATH SINK</p>
+                <p>Size : 560x355x160 mm</p>
+                <div class="portfolio-links">
+                  <a href="assets/img/kp_image/bath_sink/24.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="BATH SINK 24"><i class="bx bx-plus"></i></a>
+                  <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-bathsink">
+            <div class="portfolio-wrap">
+              <img src="assets/img/kp_image/bath_sink/25.png" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4>nama produk</h4>
+                <p>BATH SINK</p>
+                <div class="portfolio-links">
+                  <a href="assets/img/kp_image/bath_sink/25.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="BATH SINK 25"><i class="bx bx-plus"></i></a>
+                  <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-bathsink">
+            <div class="portfolio-wrap">
+              <img src="assets/img/kp_image/bath_sink/26.png" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4>2518</h4>
+                <p>BATH SINK</p>
+                <p>Size : 410x360x200 mm</p>
+                <div class="portfolio-links">
+                  <a href="assets/img/kp_image/bath_sink/26.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="BATH SINK 26"><i class="bx bx-plus"></i></a>
+                  <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-bathsink">
+            <div class="portfolio-wrap">
+              <img src="assets/img/kp_image/bath_sink/27.png" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4>3505</h4>
+                <p>BATH SINK</p>
+                <p>Size : 500x420x810 mm</p>
+                <div class="portfolio-links">
+                  <a href="assets/img/kp_image/bath_sink/27.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="BATH SINK 27"><i class="bx bx-plus"></i></a>
+                  <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-bathsink">
+            <div class="portfolio-wrap">
+              <img src="assets/img/kp_image/bath_sink/28.png" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4>3508</h4>
+                <p>BATH SINK</p>
+                <p>Size : 560x420x810 mm</p>
+                <div class="portfolio-links">
+                  <a href="assets/img/kp_image/bath_sink/28.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="BATH SINK 28"><i class="bx bx-plus"></i></a>
+                  <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-bathsink">
+            <div class="portfolio-wrap">
+              <img src="assets/img/kp_image/bath_sink/29.png" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4>9015</h4>
+                <p>BATH SINK</p>
+                <p>Size : 540x480x880 mm</p>
+                <div class="portfolio-links">
+                  <a href="assets/img/kp_image/bath_sink/29.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="BATH SINK 29"><i class="bx bx-plus"></i></a>
+                  <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-bathsink">
+            <div class="portfolio-wrap">
+              <img src="assets/img/kp_image/bath_sink/30.png" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4>9016</h4>
+                <p>BATH SINK</p>
+                <p>Size : 510x510x865 mm</p>
+                <div class="portfolio-links">
+                  <a href="assets/img/kp_image/bath_sink/30.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="BATH SINK 30"><i class="bx bx-plus"></i></a>
+                  <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-bathsink">
+            <div class="portfolio-wrap">
+              <img src="assets/img/kp_image/bath_sink/31.png" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4>9018</h4>
+                <p>BATH SINK</p>
+                <p>Size : 610x610x835 mm</p>
+                <div class="portfolio-links">
+                  <a href="assets/img/kp_image/bath_sink/31.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="BATH SINK 31"><i class="bx bx-plus"></i></a>
+                  <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-bathsink">
+            <div class="portfolio-wrap">
+              <img src="assets/img/kp_image/bath_sink/32.png" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4>9021</h4>
+                <p>BATH SINK</p>
+                <p>Size : 450x380x830 mm</p>
+                <div class="portfolio-links">
+                  <a href="assets/img/kp_image/bath_sink/32.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="BATH SINK 32"><i class="bx bx-plus"></i></a>
+                  <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-bathsink">
+            <div class="portfolio-wrap">
+              <img src="assets/img/kp_image/bath_sink/33.png" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4>9023</h4>
+                <p>BATH SINK</p>
+                <p>Size : 470x470x840 mm</p>
+                <div class="portfolio-links">
+                  <a href="assets/img/kp_image/bath_sink/33.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="BATH SINK 33"><i class="bx bx-plus"></i></a>
+                  <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-bathsink">
+            <div class="portfolio-wrap">
+              <img src="assets/img/kp_image/bath_sink/34.png" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4>9033</h4>
+                <p>BATH SINK</p>
+                <p>Size : 450x440x890 mm</p>
+                <div class="portfolio-links">
+                  <a href="assets/img/kp_image/bath_sink/34.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="BATH SINK 34"><i class="bx bx-plus"></i></a>
+                  <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-bathsink">
+            <div class="portfolio-wrap">
+              <img src="assets/img/kp_image/bath_sink/35.png" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4>9001</h4>
+                <p>BATH SINK</p>
+                <p>Size : 550x515x850 mm</p>
+                <div class="portfolio-links">
+                  <a href="assets/img/kp_image/bath_sink/35.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="BATH SINK 35"><i class="bx bx-plus"></i></a>
+                  <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-bathsink">
+            <div class="portfolio-wrap">
+              <img src="assets/img/kp_image/bath_sink/36.png" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4>9002</h4>
+                <p>BATH SINK</p>
+                <p>Size : 470x510x850 mm</p>
+                <div class="portfolio-links">
+                  <a href="assets/img/kp_image/bath_sink/36.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="BATH SINK 31"><i class="bx bx-plus"></i></a>
+                  <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-bathsink">
+            <div class="portfolio-wrap">
+              <img src="assets/img/kp_image/bath_sink/37.png" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4>9003</h4>
+                <p>BATH SINK</p>
+                <p>Size : 510x460x850 mm</p>
+                <div class="portfolio-links">
+                  <a href="assets/img/kp_image/bath_sink/37.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="BATH SINK 32"><i class="bx bx-plus"></i></a>
+                  <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-bathsink">
+            <div class="portfolio-wrap">
+              <img src="assets/img/kp_image/bath_sink/38.png" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4>9005</h4>
+                <p>BATH SINK</p>
+                <p>Size : 460x540x860 mm</p>
+                <div class="portfolio-links">
+                  <a href="assets/img/kp_image/bath_sink/38.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="BATH SINK 33"><i class="bx bx-plus"></i></a>
+                  <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-bathsink">
+            <div class="portfolio-wrap">
+              <img src="assets/img/kp_image/bath_sink/39.png" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4>9007</h4>
+                <p>BATH SINK</p>
+                <p>Size : 650x450x820 mm</p>
+                <div class="portfolio-links">
+                  <a href="assets/img/kp_image/bath_sink/39.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="BATH SINK 34"><i class="bx bx-plus"></i></a>
+                  <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-bathsink">
+            <div class="portfolio-wrap">
+              <img src="assets/img/kp_image/bath_sink/40.png" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4>9008</h4>
+                <p>BATH SINK</p>
+                <p>Size : 450x460x970 mm</p>
+                <div class="portfolio-links">
+                  <a href="assets/img/kp_image/bath_sink/40.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="BATH SINK 35"><i class="bx bx-plus"></i></a>
+                  <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-bathsink">
+            <div class="portfolio-wrap">
+              <img src="assets/img/kp_image/bath_sink/41.png" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4>9010</h4>
+                <p>BATH SINK</p>
+                <p>Size : 460x540x840 mm</p>
+                <div class="portfolio-links">
+                  <a href="assets/img/kp_image/bath_sink/41.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="BATH SINK 34"><i class="bx bx-plus"></i></a>
+                  <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-bathsink">
+            <div class="portfolio-wrap">
+              <img src="assets/img/kp_image/bath_sink/42.png" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4>9011</h4>
+                <p>BATH SINK</p>
+                <p>Size : 610x610x880 mm</p>
+                <div class="portfolio-links">
+                  <a href="assets/img/kp_image/bath_sink/42.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="BATH SINK 35"><i class="bx bx-plus"></i></a>
+                  <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-mirror">
+            <div class="portfolio-wrap">
+              <img src="assets/img/kp_image/mirror/1.png" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4>C1</h4>
+                <p>MIRROR</p>
+                <p>Size : 80x60 cm</p>
+                <div class="portfolio-links">
+                  <a href="assets/img/kp_image/mirror/1.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Mirror 1"><i class="bx bx-plus"></i></a>
+                  <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-mirror">
+            <div class="portfolio-wrap">
+              <img src="assets/img/kp_image/mirror/2.png" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4>C2</h4>
+                <p>MIRROR</p>
+                <p>Size : 45x65 cm & 60x80 cm</p>
+                <div class="portfolio-links">
+                  <a href="assets/img/kp_image/mirror/2.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Mirror 1"><i class="bx bx-plus"></i></a>
+                  <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-mirror">
+            <div class="portfolio-wrap">
+              <img src="assets/img/kp_image/mirror/3.png" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4>C3</h4>
+                <p>MIRROR</p>
+                <p>Size : 70x70 cm & 60x80 cm</p>
+                <div class="portfolio-links">
+                  <a href="assets/img/kp_image/mirror/3.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Mirror 1"><i class="bx bx-plus"></i></a>
+                  <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-mirror">
+            <div class="portfolio-wrap">
+              <img src="assets/img/kp_image/mirror/4.png" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4>C5</h4>
+                <p>MIRROR</p>
+                <p>Size : 70x70 cm</p>
+                <div class="portfolio-links">
+                  <a href="assets/img/kp_image/mirror/4.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Mirror 1"><i class="bx bx-plus"></i></a>
+                  <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-mirror">
+            <div class="portfolio-wrap">
+              <img src="assets/img/kp_image/mirror/5.png" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4>C6</h4>
+                <p>MIRROR</p>
+                <p>Size : 45x65 cm & 60x80 cm</p>
+                <div class="portfolio-links">
+                  <a href="assets/img/kp_image/mirror/5.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Mirror 1"><i class="bx bx-plus"></i></a>
+                  <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-mirror">
+            <div class="portfolio-wrap">
+              <img src="assets/img/kp_image/mirror/6.png" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4>C7</h4>
+                <p>MIRROR</p>
+                <p>Size : 45x65 cm & 60x80 cm</p>
+                <div class="portfolio-links">
+                  <a href="assets/img/kp_image/mirror/6.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Mirror 1"><i class="bx bx-plus"></i></a>
+                  <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-mirror">
+            <div class="portfolio-wrap">
+              <img src="assets/img/kp_image/mirror/7.png" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4>C8</h4>
+                <p>MIRROR</p>
+                <p>Size : 50x50 cm & 60x80 cm</p>
+                <div class="portfolio-links">
+                  <a href="assets/img/kp_image/mirror/7.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Mirror 1"><i class="bx bx-plus"></i></a>
+                  <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-mirror">
+            <div class="portfolio-wrap">
+              <img src="assets/img/kp_image/mirror/8.png" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4>C9</h4>
+                <p>MIRROR</p>
+                <p>Size : 45x65 cm & 60x80 cm</p>
+                <div class="portfolio-links">
+                  <a href="assets/img/kp_image/mirror/8.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Mirror 1"><i class="bx bx-plus"></i></a>
+                  <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-mirror">
+            <div class="portfolio-wrap">
+              <img src="assets/img/kp_image/mirror/9.png" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4>C10</h4>
+                <p>MIRROR</p>
+                <p>Size : 70x70 cm & 60x80 cm</p>
+                <div class="portfolio-links">
+                  <a href="assets/img/kp_image/mirror/9.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Mirror 1"><i class="bx bx-plus"></i></a>
+                  <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-mirror">
+            <div class="portfolio-wrap">
+              <img src="assets/img/kp_image/mirror/10.png" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4>C11</h4>
+                <p>MIRROR</p>
+                <p>Size : 70x70 cm</p>
+                <div class="portfolio-links">
+                  <a href="assets/img/kp_image/mirror/10.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Mirror 1"><i class="bx bx-plus"></i></a>
+                  <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-mirror">
+            <div class="portfolio-wrap">
+              <img src="assets/img/kp_image/mirror/11.png" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4>C12</h4>
+                <p>MIRROR</p>
+                <p>Size : 90x60 cm</p>
+                <div class="portfolio-links">
+                  <a href="assets/img/kp_image/mirror/11.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Mirror 1"><i class="bx bx-plus"></i></a>
+                  <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-mirror">
+            <div class="portfolio-wrap">
+              <img src="assets/img/kp_image/mirror/12.png" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4>C15</h4>
+                <p>MIRROR</p>
+                <p>Size : 60x80 cm</p>
+                <div class="portfolio-links">
+                  <a href="assets/img/kp_image/mirror/12.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Mirror 1"><i class="bx bx-plus"></i></a>
+                  <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-sanitary">
+            <div class="portfolio-wrap">
+              <img src="assets/img/kp_image/sanitary/1.png" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4>5007</h4>
+                <p>SANITARY</p>
+                <p>Size : 690x370x760 mm</p>
+                <p>Rough in 300 mm</p>
+                <p>Pattern Type (In Picture)</p>
+                <div class="portfolio-links">
+                  <a href="assets/img/kp_image/sanitary/1.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Sanitary 1"><i class="bx bx-plus"></i></a>
+                  <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-sanitary">
+            <div class="portfolio-wrap">
+              <img src="assets/img/kp_image/sanitary/2.png" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4>5008</h4>
+                <p>SANITARY</p>
+                <p>Size : 690x370x760 mm</p>
+                <p>Rough in 500 mm</p>
+                <p>Pattern Type (In Picture)</p>
+                <div class="portfolio-links">
+                  <a href="assets/img/kp_image/sanitary/2.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Sanitary 1"><i class="bx bx-plus"></i></a>
+                  <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-sanitary">
+            <div class="portfolio-wrap">
+              <img src="assets/img/kp_image/sanitary/3.png" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4>8015</h4>
+                <p>SANITARY</p>
+                <p>Size : 670x430x570 mm</p>
+                <p>Rough in 300 mm</p>
+                <p>Pattern Type (In Picture)</p>
+                <div class="portfolio-links">
+                  <a href="assets/img/kp_image/sanitary/3.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Sanitary 1"><i class="bx bx-plus"></i></a>
+                  <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-sanitary">
+            <div class="portfolio-wrap">
+              <img src="assets/img/kp_image/sanitary/4.png" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4>nama produk</h4>
+                <p>Sanitary</p>
+                <div class="portfolio-links">
+                  <a href="assets/img/kp_image/sanitary/4.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Sanitary 1"><i class="bx bx-plus"></i></a>
+                  <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-sanitary">
+            <div class="portfolio-wrap">
+              <img src="assets/img/kp_image/sanitary/5.png" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4>6001</h4>
+                <p>SANITARY</p>
+                <p>Size : 330x310x600 mm</p>
+                <div class="portfolio-links">
+                  <a href="assets/img/kp_image/sanitary/5.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Sanitary 1"><i class="bx bx-plus"></i></a>
+                  <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-sanitary">
+            <div class="portfolio-wrap">
+              <img src="assets/img/kp_image/sanitary/6.png" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4>6001M</h4>
+                <p>SANITARY</p>
+                <p>Size : 330x310x600 mm</p>
+                <div class="portfolio-links">
+                  <a href="assets/img/kp_image/sanitary/6.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Sanitary 1"><i class="bx bx-plus"></i></a>
+                  <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-sanitary">
+            <div class="portfolio-wrap">
+              <img src="assets/img/kp_image/sanitary/7.png" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4>6005 / 6005M</h4>
+                <p>SANITARY</p>
+                <p>Size : 460x330x700 mm</p>
+                <div class="portfolio-links">
+                  <a href="assets/img/kp_image/sanitary/7.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Sanitary 1"><i class="bx bx-plus"></i></a>
+                  <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-sanitary">
+            <div class="portfolio-wrap">
+              <img src="assets/img/kp_image/sanitary/8.png" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4>5008</h4>
+                <p>SANITARY</p>
+                <p>Size : 690x370x760 mm</p>
+                <div class="portfolio-links">
+                  <a href="assets/img/kp_image/sanitary/8.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Sanitary 1"><i class="bx bx-plus"></i></a>
+                  <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-sanitary">
+            <div class="portfolio-wrap">
+              <img src="assets/img/kp_image/sanitary/9.png" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4>5007</h4>
+                <p>SANITARY</p>
+                <p>Size : 690x370x760 mm</p>
+                <div class="portfolio-links">
+                  <a href="assets/img/kp_image/sanitary/9.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Sanitary 1"><i class="bx bx-plus"></i></a>
+                  <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-sanitary">
+            <div class="portfolio-wrap">
+              <img src="assets/img/kp_image/sanitary/10.png" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4>6065 / 6065M</h4>
+                <p>SANITARY</p>
+                <p>Size : 420x400x990 mm</p>
+                <div class="portfolio-links">
+                  <a href="assets/img/kp_image/sanitary/10.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Sanitary 1"><i class="bx bx-plus"></i></a>
+                  <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-sanitary">
+            <div class="portfolio-wrap">
+              <img src="assets/img/kp_image/sanitary/11.png" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4>8010</h4>
+                <p>SANITARY</p>
+                <p>Size : 710x370x800 mm</p>
+                <div class="portfolio-links">
+                  <a href="assets/img/kp_image/sanitary/11.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Sanitary 1"><i class="bx bx-plus"></i></a>
+                  <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-sanitary">
+            <div class="portfolio-wrap">
+              <img src="assets/img/kp_image/sanitary/12.png" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4>8015</h4>
+                <p>SANITARY</p>
+                <p>Size : 670x430x570 mm</p>
+                <div class="portfolio-links">
+                  <a href="assets/img/kp_image/sanitary/12.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Sanitary 1"><i class="bx bx-plus"></i></a>
+                  <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
+                </div>
+              </div>
+            </div>
+          </div>
+
+
+
         </div>
-      </section><!-- End Portfolio Section -->
+
+      </div>
+    </section><!-- End Portfolio Section -->
 
 
     <!-- ======= Testimonials Section ======= -->
@@ -1719,7 +1719,7 @@
                 <h4>Pembeli</h4>
                 <p>
                   <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                  Saya sangat puas dengan layanan servis lokasi dari Graha Luas. Mereka sangat detail dan teliti dalam pekerjaan mereka. 
+                  Saya sangat puas dengan layanan servis lokasi dari Graha Luas. Mereka sangat detail dan teliti dalam pekerjaan mereka.
                   <i class="bx bxs-quote-alt-right quote-icon-right"></i>
                 </p>
               </div>
@@ -1764,25 +1764,25 @@
               </div>
             </div><!-- End testimonial item -->
 
-              <div class="swiper-slide">
-                <div class="testimonial-item">
-                    <img src="assets/img/ulasan/6.jpg" class="testimonial-img" alt="">
-                    <h3>teguh</h3>
-                    <h4>gamer</h4>
-                    <p>
-                      <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                      Graha Luas benar-benar memahami kebutuhan pelanggan. Dengan layanan pengukuran dan pemasangan yang akurat, mereka memastikan bahwa setiap produk seperti bath cabinet dan bath sink pas dan sempurna di ruangan saya. Saya sangat menghargai perhatian mereka terhadap detail.
-                      <i class="bx bxs-quote-alt-right quote-icon-right"></i>
-                    </p>
-                </div>
-              </div><!-- End testimonial item -->
+            <div class="swiper-slide">
+              <div class="testimonial-item">
+                <img src="assets/img/ulasan/6.jpg" class="testimonial-img" alt="">
+                <h3>teguh</h3>
+                <h4>gamer</h4>
+                <p>
+                  <i class="bx bxs-quote-alt-left quote-icon-left"></i>
+                  Graha Luas benar-benar memahami kebutuhan pelanggan. Dengan layanan pengukuran dan pemasangan yang akurat, mereka memastikan bahwa setiap produk seperti bath cabinet dan bath sink pas dan sempurna di ruangan saya. Saya sangat menghargai perhatian mereka terhadap detail.
+                  <i class="bx bxs-quote-alt-right quote-icon-right"></i>
+                </p>
+              </div>
+            </div><!-- End testimonial item -->
           </div>
           <div class="swiper-pagination"></div>
         </div>
 
       </div>
     </section><!-- End Testimonials Section -->
-<!-- 
+    <!-- 
 
     ======= Staff Section ======= -->
     <!-- <section id="team" class="team">

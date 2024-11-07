@@ -1,46 +1,41 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="csrf-token" content="{{ csrf_token() }}">
-    <title>Tambah Produk</title>
+@extends('layouts.default')
 
-    <!-- Custom Stylesheets -->
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet">
-</head>
-<body>
+@section('title')
+Produk
+@endsection
 
-    <div class="container mt-4">
-        <h1>Tambah Produk</h1>
+@push('before-script')
 
-        @if (session('success'))
-            <div class="alert alert-success">{{ session('success') }}</div>
-        @endif
+@if (session('status'))
+<x-sweetalertsession tipe="{{session('tipe')}}" status="{{session('status')}}" />
+@endif
+@endpush
 
-        <form action="{{ route('produk.store') }}" method="POST" enctype="multipart/form-data">
-            @csrf
-            <div class="mb-3">
-                <label for="name" class="form-label">Nama Produk</label>
-                <input type="text" class="form-control" name="name" id="name" required>
+@section('content')
+<x-jstooltip />
+
+<h4 class="fw-bold py-3 mb-4">@yield('title')</h4>
+
+<div class="card px-2">
+    <div class="row">
+        <div class="col-xl-6 mb-xl-0 mb-3">
+            <div
+                class="btn-toolbar demo-inline-spacing"
+                role="toolbar"
+                aria-produk="Toolbar with button groups">
+                <div class="btn-group" role="group" aria-produk="Third group">
+                    <a href="{{route('admin.produk')}}" type="button" class="btn btn-secondary" data-bs-toggle="tooltip" data-bs-placement="top" title="Kembali">
+                        <i class="fa-solid fa-circle-arrow-left"></i>
+                    </a>
+                </div>
             </div>
-            <div class="mb-3">
-                <label for="description" class="form-label">Deskripsi</label>
-                <textarea class="form-control" name="description" id="description"></textarea>
-            </div>
-            <div class="mb-3">
-                <label for="price" class="form-label">Harga</label>
-                <input type="number" class="form-control" name="price" id="price" required>
-            </div>
-            <div class="mb-3">
-                <label for="image" class="form-label">Gambar</label>
-                <input type="file" class="form-control" name="image" id="image" accept="image/*">
-            </div>
-            <button type="submit" class="btn btn-primary">Simpan</button>
-        </form>
+        </div>
     </div>
 
-    <!-- Custom Scripts -->
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js"></script>
-</body>
-</html>
+    <hr class="my-1" />
+
+    <x-produk.produk-form item=""></x-produk.produk-form>
+</div>
+
+
+@endsection

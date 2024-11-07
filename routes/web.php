@@ -21,26 +21,26 @@ Route::get('/', function () {
 });
 
 
-
-Route::get('/dashboard', function () {
-    return view('dashboard');
-})->middleware(['auth', 'verified'])->name('dashboard');
-
-Route::get('/products', [produkController::class, 'index'])->name('produk.index');
-
-// Rute untuk produk lainnya, jika perlu
-Route::get('/products/create', [produkController::class, 'create'])->name('produk.create');
-Route::Post('/products/store', [produkController::class, 'store'])->name('produk.store');
-Route::get('/products/{product}/edit', [produkController::class, 'edit'])->name('produk.edit');
-
 Route::middleware(['auth', 'admin'])->group(function () {
-    Route::get('/admin', [AdminController::class, 'index'])->name('admin.dashboard');
+    Route::get('/dashboard', [AdminController::class, 'index'])->name('admin.dashboard');
 });
+
+
+// Route::get('/dashboard', function () {
+
+//     return view('admin.dashboard');
+// })->middleware(['auth', 'verified'])->name('dashboard');
 
 Route::middleware('auth')->group(function () {
     Route::get('/profile', [ProfileController::class, 'edit'])->name('profile.edit');
     Route::patch('/profile', [ProfileController::class, 'update'])->name('profile.update');
     Route::delete('/profile', [ProfileController::class, 'destroy'])->name('profile.destroy');
+
+    Route::get('/produk', [produkController::class, 'index'])->name('admin.produk');
+    Route::get('/products/create', [produkController::class, 'create'])->name('produk.create');
+    Route::Post('/products/store', [produkController::class, 'store'])->name('produk.store');
+    Route::delete('/products/{item}', [produkController::class, 'destroy'])->name('produk.destroy');    
+    Route::get('/products/{product}/edit', [produkController::class, 'edit'])->name('produk.edit');
 });
 
-require __DIR__.'/auth.php';
+require __DIR__ . '/auth.php';
