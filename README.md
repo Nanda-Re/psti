@@ -8,8 +8,12 @@
 ## October 24th 2024
 - Register page now requires Username instead of Email
 
+## November 13th 2024
+- Add Hardcoded Top Items in Homepage
+
 # Tasks
 - ~Change Login credential from Email to Username~ Done
-- ~Fix Dashboard page~ Use different dashboard??
-- Customize Login page?
+- ~Fix Dashboard page~ Done
+- Customize Login page
 - Do fixes for Forgot Password page
+- Create dynamic Top Items (not hardcoded)
