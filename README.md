@@ -10,6 +10,7 @@
 
 ## November 13th 2024
 - Add Hardcoded Top Items in Homepage
+- Made small fixes to Top Items
 
 # Tasks
 - ~Change Login credential from Email to Username~ Done

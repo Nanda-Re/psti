@@ -327,78 +327,76 @@
                 </div>
 
                 <div class="row portfolio-container">
-                    @foreach($items as $item)
-                    <div class="col-lg-4 col-md-6 portfolio-item filter {{ strtolower($item->jenis) }}">
+                    <div class="col-lg-4 col-md-6 portfolio-item">
                         <div class="portfolio-wrap">
-                            <img src="https://upload.wikimedia.org/wikipedia/commons/c/c4/SIG_Sauer_XM5.png" class="img-fluid" alt="{{ $item->name }}">
+                            <img src="https://upload.wikimedia.org/wikipedia/commons/c/c4/SIG_Sauer_XM5.png" class="img-fluid" alt="ALT ITEM">
                             <div class="portfolio-info">
                                 <h4>SIG SAUER XM5</h4>
                                 <p>Gun</p>
                                 <p>Price: Rp.xxx,xxx,xxx</p>
                                 <p>Stok: X</p>
                                 <div class="portfolio-links">
-                                    <a href="{{ asset('storage/' . $item->image) }}" data-gallery="portfolioGallery" class="portfolio-lightbox" title="{{ $item->name }}"><i class="bx bx-plus"></i></a>
+                                    <a href="example.com" data-gallery="portfolioGallery" class="portfolio-lightbox" title="ITEM TITLE"><i class="bx bx-plus"></i></a>
                                 </div>
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-4 col-md-6 portfolio-item filter {{ strtolower($item->jenis) }}">
+                    <div class="col-lg-4 col-md-6 portfolio-item">
                         <div class="portfolio-wrap">
-                            <img src="https://upload.wikimedia.org/wikipedia/commons/c/c4/SIG_Sauer_XM5.png" class="img-fluid" alt="{{ $item->name }}">
+                            <img src="https://upload.wikimedia.org/wikipedia/commons/c/c4/SIG_Sauer_XM5.png" class="img-fluid" alt="ALT ITEM2">
                             <div class="portfolio-info">
                                 <h4>SIG SAUER XM5</h4>
                                 <p>Gun</p>
                                 <p>Price: Rp.xxx,xxx,xxx</p>
                                 <p>Stok: X</p>
                                 <div class="portfolio-links">
-                                    <a href="{{ asset('storage/' . $item->image) }}" data-gallery="portfolioGallery" class="portfolio-lightbox" title="{{ $item->name }}"><i class="bx bx-plus"></i></a>
+                                    <a href="example.com" data-gallery="portfolioGallery" class="portfolio-lightbox" title="ITEM TITLE2"><i class="bx bx-plus"></i></a>
                                 </div>
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-4 col-md-6 portfolio-item filter {{ strtolower($item->jenis) }}">
+                    <div class="col-lg-4 col-md-6 portfolio-item">
                         <div class="portfolio-wrap">
-                            <img src="https://upload.wikimedia.org/wikipedia/commons/c/c4/SIG_Sauer_XM5.png" class="img-fluid" alt="{{ $item->name }}">
+                            <img src="https://upload.wikimedia.org/wikipedia/commons/c/c4/SIG_Sauer_XM5.png" class="img-fluid" alt="ALT ITEM3">
                             <div class="portfolio-info">
                                 <h4>SIG SAUER XM5</h4>
                                 <p>Gun</p>
                                 <p>Price: Rp.xxx,xxx,xxx</p>
                                 <p>Stok: X</p>
                                 <div class="portfolio-links">
-                                    <a href="{{ asset('storage/' . $item->image) }}" data-gallery="portfolioGallery" class="portfolio-lightbox" title="{{ $item->name }}"><i class="bx bx-plus"></i></a>
+                                    <a href="example.com" data-gallery="portfolioGallery" class="portfolio-lightbox" title="ITEM TITLE3"><i class="bx bx-plus"></i></a>
                                 </div>
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-4 col-md-6 portfolio-item filter {{ strtolower($item->jenis) }}">
+                    <div class="col-lg-4 col-md-6 portfolio-item">
                         <div class="portfolio-wrap">
-                            <img src="https://upload.wikimedia.org/wikipedia/commons/c/c4/SIG_Sauer_XM5.png" class="img-fluid" alt="{{ $item->name }}">
+                            <img src="https://upload.wikimedia.org/wikipedia/commons/c/c4/SIG_Sauer_XM5.png" class="img-fluid" alt="ALT ITEM4">
                             <div class="portfolio-info">
                                 <h4>SIG SAUER XM5</h4>
                                 <p>Gun</p>
                                 <p>Price: Rp.xxx,xxx,xxx</p>
                                 <p>Stok: X</p>
                                 <div class="portfolio-links">
-                                    <a href="{{ asset('storage/' . $item->image) }}" data-gallery="portfolioGallery" class="portfolio-lightbox" title="{{ $item->name }}"><i class="bx bx-plus"></i></a>
+                                    <a href="example.com" data-gallery="portfolioGallery" class="portfolio-lightbox" title="ITEM TITLE4"><i class="bx bx-plus"></i></a>
                                 </div>
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-4 col-md-6 portfolio-item filter {{ strtolower($item->jenis) }}">
+                    <div class="col-lg-4 col-md-6 portfolio-item">
                         <div class="portfolio-wrap">
-                            <img src="https://upload.wikimedia.org/wikipedia/commons/c/c4/SIG_Sauer_XM5.png" class="img-fluid" alt="{{ $item->name }}">
+                            <img src="https://upload.wikimedia.org/wikipedia/commons/c/c4/SIG_Sauer_XM5.png" class="img-fluid" alt="ALT ITEM5">
                             <div class="portfolio-info">
                                 <h4>SIG SAUER XM5</h4>
                                 <p>Gun</p>
                                 <p>Price: Rp.xxx,xxx,xxx</p>
                                 <p>Stok: X</p>
                                 <div class="portfolio-links">
-                                    <a href="{{ asset('storage/' . $item->image) }}" data-gallery="portfolioGallery" class="portfolio-lightbox" title="{{ $item->name }}"><i class="bx bx-plus"></i></a>
+                                    <a href="example.com" data-gallery="portfolioGallery" class="portfolio-lightbox" title="ITEM TITLE5"><i class="bx bx-plus"></i></a>
                                 </div>
                             </div>
                         </div>
                     </div>
-                    @endforeach
                 </div>
 
             </div>
