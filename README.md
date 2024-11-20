@@ -12,6 +12,10 @@
 - Add Hardcoded Top Items in Homepage
 - Made small fixes to Top Items
 
+## November 20th 2024
+- Changes to the Top Items
+- Added checkbox for Top Items in Edit Product section
+
 # Tasks
 - ~Change Login credential from Email to Username~ Done
 - ~Fix Dashboard page~ Done

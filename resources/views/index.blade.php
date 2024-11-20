@@ -329,10 +329,10 @@
                 <div class="row portfolio-container">
                     <div class="col-lg-4 col-md-6 portfolio-item">
                         <div class="portfolio-wrap">
-                            <img src="https://upload.wikimedia.org/wikipedia/commons/c/c4/SIG_Sauer_XM5.png" class="img-fluid" alt="ALT ITEM">
+                            <img src="http://localhost:8000/assets/img/portfolio/portfolio-1.jpg" class="img-fluid" alt="ALT ITEM">
                             <div class="portfolio-info">
-                                <h4>SIG SAUER XM5</h4>
-                                <p>Gun</p>
+                                <h4>Item</h4>
+                                <p>Category</p>
                                 <p>Price: Rp.xxx,xxx,xxx</p>
                                 <p>Stok: X</p>
                                 <div class="portfolio-links">
@@ -343,10 +343,10 @@
                     </div>
                     <div class="col-lg-4 col-md-6 portfolio-item">
                         <div class="portfolio-wrap">
-                            <img src="https://upload.wikimedia.org/wikipedia/commons/c/c4/SIG_Sauer_XM5.png" class="img-fluid" alt="ALT ITEM2">
+                            <img src="http://localhost:8000/assets/img/portfolio/portfolio-2.jpg" class="img-fluid" alt="ALT ITEM2">
                             <div class="portfolio-info">
-                                <h4>SIG SAUER XM5</h4>
-                                <p>Gun</p>
+                                <h4>Item</h4>
+                                <p>Category</p>
                                 <p>Price: Rp.xxx,xxx,xxx</p>
                                 <p>Stok: X</p>
                                 <div class="portfolio-links">
@@ -357,10 +357,10 @@
                     </div>
                     <div class="col-lg-4 col-md-6 portfolio-item">
                         <div class="portfolio-wrap">
-                            <img src="https://upload.wikimedia.org/wikipedia/commons/c/c4/SIG_Sauer_XM5.png" class="img-fluid" alt="ALT ITEM3">
+                            <img src="http://localhost:8000/assets/img/portfolio/portfolio-3.jpg" class="img-fluid" alt="ALT ITEM3">
                             <div class="portfolio-info">
-                                <h4>SIG SAUER XM5</h4>
-                                <p>Gun</p>
+                                <h4>Item</h4>
+                                <p>Category</p>
                                 <p>Price: Rp.xxx,xxx,xxx</p>
                                 <p>Stok: X</p>
                                 <div class="portfolio-links">
@@ -371,10 +371,10 @@
                     </div>
                     <div class="col-lg-4 col-md-6 portfolio-item">
                         <div class="portfolio-wrap">
-                            <img src="https://upload.wikimedia.org/wikipedia/commons/c/c4/SIG_Sauer_XM5.png" class="img-fluid" alt="ALT ITEM4">
+                            <img src="http://localhost:8000/assets/img/portfolio/portfolio-4.jpg" class="img-fluid" alt="ALT ITEM4">
                             <div class="portfolio-info">
-                                <h4>SIG SAUER XM5</h4>
-                                <p>Gun</p>
+                                <h4>Item</h4>
+                                <p>Category</p>
                                 <p>Price: Rp.xxx,xxx,xxx</p>
                                 <p>Stok: X</p>
                                 <div class="portfolio-links">
@@ -385,10 +385,10 @@
                     </div>
                     <div class="col-lg-4 col-md-6 portfolio-item">
                         <div class="portfolio-wrap">
-                            <img src="https://upload.wikimedia.org/wikipedia/commons/c/c4/SIG_Sauer_XM5.png" class="img-fluid" alt="ALT ITEM5">
+                            <img src="http://localhost:8000/assets/img/portfolio/portfolio-5.jpg" class="img-fluid" alt="ALT ITEM5">
                             <div class="portfolio-info">
-                                <h4>SIG SAUER XM5</h4>
-                                <p>Gun</p>
+                                <h4>Item</h4>
+                                <p>Category</p>
                                 <p>Price: Rp.xxx,xxx,xxx</p>
                                 <p>Stok: X</p>
                                 <div class="portfolio-links">

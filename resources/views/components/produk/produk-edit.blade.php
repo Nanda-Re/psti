@@ -57,6 +57,17 @@
         </div>
     </div>
 
+    <!-- Top Item -->
+    <div class="form-group row align-items-center py-2">
+        <label for="name" class="form-control-label col-sm-3 text-md-right text-white">Top Item:</label>
+        <div class="col-sm-6 col-md-9">
+            <input type="checkbox" id="top" name="top" value="{{ $item->top }}">
+            @error('name')
+            <small class="text-danger">{{ $message }}</small>
+            @enderror
+        </div>
+    </div>
+
     <!-- Submit Button -->
     <div class="card-footer d-flex justify-content-between flex-row-reverse">
         <button class="btn btn-primary">Simpan</button>

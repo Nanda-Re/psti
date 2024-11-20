@@ -88,6 +88,7 @@ class produkController extends Controller
                 'price' => 'nullable|numeric',
                 'stok' => 'nullable|numeric',
                 'image' => 'nullable|image|mimes:jpeg,png,jpg,gif|max:2048',
+                'top' => 'nullable|boolean',
             ]);
 
             // Find the product by ID
@@ -110,6 +111,7 @@ class produkController extends Controller
                 $path = $request->file('image')->store('images', 'public');
                 $produk->image = $path;
             }
+            $produk->top = $request->has('top') ? 1 : 0;
 
             // Save the updated product
             $produk->save();
