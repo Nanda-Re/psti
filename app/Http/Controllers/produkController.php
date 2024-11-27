@@ -27,7 +27,7 @@ class produkController extends Controller
     {
         $pages = 'products';
         $items = Produk::orderBy('name', 'asc')->paginate();
-        $topProducts = Produk::where('top', true)->get();
+        $topProducts = Produk::where('top', true)->take(5)->get();
         return view('index', compact('pages', 'items', 'topProducts'));
     }
 

@@ -18,6 +18,7 @@
 
 ## November 27th 2024
 - Adding abbility to view top item in Index page
+- Added limiter for Top Item on Frontend side (Index Page)
 
 # Tasks
 - ~Change Login credential from Email to Username~ Done
