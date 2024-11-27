@@ -27,3 +27,4 @@
 - Do fixes for Forgot Password page
 - ~Create dynamic Top Items (not hardcoded)~ Done
 - Add limiter to Top Items
+- Change Top Item image to Slideshow image
