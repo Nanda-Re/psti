@@ -17,12 +17,18 @@ class produkController extends Controller
         return view('admin.produk.index', compact('pages', 'items'));
     }
 
+    public function indexTop()
+    {
+        $topProducts = Produk::where('top', true)->get();
+        return view('index', compact('topProducts'));
+    }
 
     public function getProduk()
     {
         $pages = 'products';
         $items = Produk::orderBy('name', 'asc')->paginate();
-        return view('index', compact('pages', 'items'));
+        $topProducts = Produk::where('top', true)->get();
+        return view('index', compact('pages', 'items', 'topProducts'));
     }
 
     // Menampilkan form untuk membuat produk baru

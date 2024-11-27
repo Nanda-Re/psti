@@ -16,9 +16,13 @@
 - Changes to the Top Items
 - Added checkbox for Top Items in Edit Product section
 
+## November 27th 2024
+- Adding abbility to view top item in Index page
+
 # Tasks
 - ~Change Login credential from Email to Username~ Done
 - ~Fix Dashboard page~ Done
 - Customize Login page
 - Do fixes for Forgot Password page
-- Create dynamic Top Items (not hardcoded)
+- ~Create dynamic Top Items (not hardcoded)~ Done
+- Add limiter to Top Items

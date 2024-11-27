@@ -327,76 +327,22 @@
                 </div>
 
                 <div class="row portfolio-container">
-                    <div class="col-lg-4 col-md-6 portfolio-item">
+                    @foreach($topProducts as $product)
+                    <div class="col-lg-4 col-md-6 portfolio-item filter {{ strtolower($product->jenis) }}">
                         <div class="portfolio-wrap">
-                            <img src="http://localhost:8000/assets/img/portfolio/portfolio-1.jpg" class="img-fluid" alt="ALT ITEM">
+                            <img src="{{ asset('storage/' . $product->image) }}" class="img-fluid" alt="{{ $product->name }}">
                             <div class="portfolio-info">
-                                <h4>Item</h4>
-                                <p>Category</p>
-                                <p>Price: Rp.xxx,xxx,xxx</p>
-                                <p>Stok: X</p>
+                                <h4>{{ $product->name }}</h4>
+                                <p>Kategori: {{ strtoupper($product->jenis) }}</p>
+                                <p>Harga: Rp. {{ number_format($product->price, 0, ',', '.') }}</p>
+                                <p>Stok tersedia: {{ $product->stok }}</p>
                                 <div class="portfolio-links">
-                                    <a href="example.com" data-gallery="portfolioGallery" class="portfolio-lightbox" title="ITEM TITLE"><i class="bx bx-plus"></i></a>
+                                    <a href="{{ asset('storage/' . $product->image) }}" data-gallery="portfolioGallery" class="portfolio-lightbox" title="{{ $product->name }}"><i class="bx bx-plus"></i></a>
                                 </div>
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-4 col-md-6 portfolio-item">
-                        <div class="portfolio-wrap">
-                            <img src="http://localhost:8000/assets/img/portfolio/portfolio-2.jpg" class="img-fluid" alt="ALT ITEM2">
-                            <div class="portfolio-info">
-                                <h4>Item</h4>
-                                <p>Category</p>
-                                <p>Price: Rp.xxx,xxx,xxx</p>
-                                <p>Stok: X</p>
-                                <div class="portfolio-links">
-                                    <a href="example.com" data-gallery="portfolioGallery" class="portfolio-lightbox" title="ITEM TITLE2"><i class="bx bx-plus"></i></a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-md-6 portfolio-item">
-                        <div class="portfolio-wrap">
-                            <img src="http://localhost:8000/assets/img/portfolio/portfolio-3.jpg" class="img-fluid" alt="ALT ITEM3">
-                            <div class="portfolio-info">
-                                <h4>Item</h4>
-                                <p>Category</p>
-                                <p>Price: Rp.xxx,xxx,xxx</p>
-                                <p>Stok: X</p>
-                                <div class="portfolio-links">
-                                    <a href="example.com" data-gallery="portfolioGallery" class="portfolio-lightbox" title="ITEM TITLE3"><i class="bx bx-plus"></i></a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-md-6 portfolio-item">
-                        <div class="portfolio-wrap">
-                            <img src="http://localhost:8000/assets/img/portfolio/portfolio-4.jpg" class="img-fluid" alt="ALT ITEM4">
-                            <div class="portfolio-info">
-                                <h4>Item</h4>
-                                <p>Category</p>
-                                <p>Price: Rp.xxx,xxx,xxx</p>
-                                <p>Stok: X</p>
-                                <div class="portfolio-links">
-                                    <a href="example.com" data-gallery="portfolioGallery" class="portfolio-lightbox" title="ITEM TITLE4"><i class="bx bx-plus"></i></a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-md-6 portfolio-item">
-                        <div class="portfolio-wrap">
-                            <img src="http://localhost:8000/assets/img/portfolio/portfolio-5.jpg" class="img-fluid" alt="ALT ITEM5">
-                            <div class="portfolio-info">
-                                <h4>Item</h4>
-                                <p>Category</p>
-                                <p>Price: Rp.xxx,xxx,xxx</p>
-                                <p>Stok: X</p>
-                                <div class="portfolio-links">
-                                    <a href="example.com" data-gallery="portfolioGallery" class="portfolio-lightbox" title="ITEM TITLE5"><i class="bx bx-plus"></i></a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
+                    @endforeach
                 </div>
 
             </div>
