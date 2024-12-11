@@ -28,6 +28,9 @@
     <!-- Template Main CSS File -->
     <link href="assets/css/style.css" rel="stylesheet">
 
+    <!-- Bootstrap CSS -->
+<!--     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous"> -->
+
     <!-- =======================================================
   * Template Name: Gp
   * Template URL: https://bootstrapmade.com/gp-free-multipurpose-html-bootstrap-template/
@@ -125,6 +128,59 @@
         </div>
     </section>
     <!-- End Hero -->
+
+    <!-- Carousel Test -->
+
+        <section id="products1" class="portfolio">
+    <div class="container" data-aos="fade-up">
+
+        <div class="section-title">
+            <h2>Top Items</h2>
+            <p>Check our top 5 items from this month!</p>
+        </div>
+
+        <!-- Bootstrap Carousel -->
+        <div id="productsCarousel" class="carousel slide" data-bs-ride="carousel">
+            <div class="carousel-inner">
+                @foreach($topProducts as $index => $product)
+                    <div class="carousel-item {{ $index == 0 ? 'active' : '' }}">
+                        <div class="row justify-content-center align-items-center">
+                            <!-- Left side: Product Information -->
+                            <div class="col-md-6">
+                                <div class="portfolio-info">
+                                    <h4>{{ $product->name }}</h4>
+                                    <p>Kategori: {{ strtoupper($product->jenis) }}</p>
+                                    <p>Stok tersedia: {{ $product->stok }}</p>
+                                    <div class="portfolio-links">
+                                        <a href="{{ asset('storage/' . $product->image) }}" data-gallery="portfolioGallery" class="portfolio-lightbox" title="{{ $product->name }}"><i class="bx bx-plus"></i></a>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <!-- Right side: Product Image -->
+                            <div class="col-md-6">
+                                <div class="portfolio-wrap">
+                                    <img src="{{ asset('storage/' . $product->image) }}" class="d-block w-100 img-fluid" alt="{{ $product->name }}">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                @endforeach
+            </div>
+
+            <!-- Carousel Controls -->
+            <button class="carousel-control-prev" type="button" data-bs-target="#productsCarousel" data-bs-slide="prev">
+                <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                <span class="visually-hidden">Previous</span>
+            </button>
+            <button class="carousel-control-next" type="button" data-bs-target="#productsCarousel" data-bs-slide="next">
+                <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                <span class="visually-hidden">Next</span>
+            </button>
+        </div>
+
+    </div>
+</section>
 
     <main id="main">
 
@@ -317,37 +373,7 @@
             </div>
         </section>
         <!-- End Portfolio Section -->
-        <!-- ======= Hot Items Section ======= -->
-        <section id="products1" class="portfolio">
-            <div class="container" data-aos="fade-up">
 
-                <div class="section-title">
-                    <h2>Hot Items</h2>
-                    <p>Check our top 5 items from this month!</p>
-                </div>
-
-                <div class="row portfolio-container">
-                    @foreach($topProducts as $product)
-                    <div class="col-lg-4 col-md-6 portfolio-item filter {{ strtolower($product->jenis) }}">
-                        <div class="portfolio-wrap">
-                            <img src="{{ asset('storage/' . $product->image) }}" class="img-fluid" alt="{{ $product->name }}">
-                            <div class="portfolio-info">
-                                <h4>{{ $product->name }}</h4>
-                                <p>Kategori: {{ strtoupper($product->jenis) }}</p>
-                                <p>Harga: Rp. {{ number_format($product->price, 0, ',', '.') }}</p>
-                                <p>Stok tersedia: {{ $product->stok }}</p>
-                                <div class="portfolio-links">
-                                    <a href="{{ asset('storage/' . $product->image) }}" data-gallery="portfolioGallery" class="portfolio-lightbox" title="{{ $product->name }}"><i class="bx bx-plus"></i></a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    @endforeach
-                </div>
-
-            </div>
-        </section>
-        <!-- End Hot Items Section -->
 
         <!-- ======= Testimonials Section ======= -->
         <section id="testimonials" class="testimonials">

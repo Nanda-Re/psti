@@ -20,6 +20,9 @@
 - Adding abbility to view top item in Index page
 - Added limiter for Top Item on Frontend side (Index Page)
 
+## December 11th 2024
+- Switch Top Item view to Carousel instead
+
 # Tasks
 - ~Change Login credential from Email to Username~ Done
 - ~Fix Dashboard page~ Done
@@ -27,4 +30,4 @@
 - Do fixes for Forgot Password page
 - ~Create dynamic Top Items (not hardcoded)~ Done
 - Add limiter to Top Items
-- Change Top Item image to Slideshow image
+- ~Change Top Item image to Slideshow image~ Slight changes is needed, otherwise is doe!
