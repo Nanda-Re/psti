@@ -25,7 +25,7 @@
 
 ## December 18th 2024
 - Added Top Item description
-
+- Fixed top item checkbox issue...I think
 
 # Tasks
 - ~Change Login credential from Email to Username~ Done
@@ -35,4 +35,4 @@
 - ~Create dynamic Top Items (not hardcoded)~ Done
 - Add limiter to Top Items
 - ~Change Top Item image to Slideshow image~ Slight changes is needed, otherwise is doe!
-- Top item checkbox is broken somehow...not returning check or unchecked value
+- ~Top item checkbox is broken somehow...not returning check or unchecked value~ Fixed?
