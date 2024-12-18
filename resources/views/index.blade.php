@@ -130,7 +130,6 @@
     <!-- End Hero -->
 
     <!-- Carousel Test -->
-
         <section id="products1" class="portfolio">
     <div class="container" data-aos="fade-up">
 
@@ -151,6 +150,7 @@
                                     <h4>{{ $product->name }}</h4>
                                     <p>Kategori: {{ strtoupper($product->jenis) }}</p>
                                     <p>Stok tersedia: {{ $product->stok }}</p>
+                                    <p>{{ $product->desc }}</p>
                                     <div class="portfolio-links">
                                         <a href="{{ asset('storage/' . $product->image) }}" data-gallery="portfolioGallery" class="portfolio-lightbox" title="{{ $product->name }}"><i class="bx bx-plus"></i></a>
                                     </div>

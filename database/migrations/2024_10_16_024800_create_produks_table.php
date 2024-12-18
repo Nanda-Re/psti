@@ -19,6 +19,7 @@ return new class extends Migration
             $table->bigInteger('price');
             $table->integer('stok');
             $table->boolean('top')->default(false);
+            $table->string('desc')->nullable();
             $table->timestamps();
         });
     }

@@ -17,6 +17,8 @@ class Produk extends Model
         'jenis',
         'stok',
         'image',
+        'top',
+        'desc',
     ];
 }
 

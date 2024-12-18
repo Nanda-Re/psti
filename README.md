@@ -23,6 +23,10 @@
 ## December 11th 2024
 - Switch Top Item view to Carousel instead
 
+## December 18th 2024
+- Added Top Item description
+
+
 # Tasks
 - ~Change Login credential from Email to Username~ Done
 - ~Fix Dashboard page~ Done
@@ -31,3 +35,4 @@
 - ~Create dynamic Top Items (not hardcoded)~ Done
 - Add limiter to Top Items
 - ~Change Top Item image to Slideshow image~ Slight changes is needed, otherwise is doe!
+- Top item checkbox is broken somehow...not returning check or unchecked value
