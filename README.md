@@ -30,13 +30,17 @@
 ## December 19th 2024
 - Added top item status on dashboard
 
+## January 1st 2025
+- Added Top Item limiter
+- Happy New Year 2025!
+
 # Tasks
 - ~Change Login credential from Email to Username~ Done
 - ~Fix Dashboard page~ Done
 - Customize Login page
 - Do fixes for Forgot Password page
 - ~Create dynamic Top Items (not hardcoded)~ Done
-- Add limiter to Top Items
-- ~Change Top Item image to Slideshow image~ Slight changes is needed, otherwise is doe!
+- ~Add limiter to Top Items~ Done
+- ~Change Top Item image to Slideshow image~ Slight changes is needed, otherwise is done!
 - ~Top item checkbox is broken somehow...not returning check or unchecked value~ Fixed
 - Make a colored checkbox for Top Item status on the dashboard
