@@ -222,7 +222,7 @@
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch" data-aos="zoom-in" data-aos-delay="100">
             <div class="icon-box">
               <div class="icon"><i class="bx bxl-dribbble"></i></div>
-              <h4><a href="">Jasa Pengukuran</a></h4>
+              <h4><a href="#">Jasa Pengukuran</a></h4>
               <p>Kami memberikan kemudahan untuk anda dalam memperhitungkan kebutuhan wallpaper yang ingin dipasang.
                 Tentunya dalam hal ini untuk mengantisipasi Over Budget saat pembelian wallpaper dinding.
                 Pengukuran ini dilakukan oleh tangan yang terampil dengan sangat detail untuk memberikan kesan yang lebih menarik dan cantik.</p>
@@ -232,7 +232,7 @@
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-md-0" data-aos="zoom-in" data-aos-delay="200">
             <div class="icon-box">
               <div class="icon"><i class="bx bx-file"></i></div>
-              <h4><a href="">Jasa Servis Lokasi</a></h4>
+              <h4><a href="#">Jasa Servis Lokasi</a></h4>
               <p>Kami memberikan jasa untuk memperbaiki wallpaper, wallpanel maupun vinyl flooring Anda yang mengalami kerusakan.
                 Anda hanya perlu menghubungi customer service kami untuk mengajukan service ke lokasi Anda dan tinggal menunggu tukang kami datang untuk memperbaiki kerusakan yang ada.</p>
             </div>
@@ -241,7 +241,7 @@
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-lg-0" data-aos="zoom-in" data-aos-delay="300">
             <div class="icon-box">
               <div class="icon"><i class="bx bx-tachometer"></i></div>
-              <h4><a href="">Jasa Pemasangan</a></h4>
+              <h4><a href="#">Jasa Pemasangan</a></h4>
               <p>Kami memberikan Jasa Pemasangan sebagai solusi untuk anda yang tidak tahu cara pemasangan wallpaper.
                 Sehingga anda tidak perlu repot dalam hal ini. Pemasangan yang kami lakukan selalu mengedepankan kenyamanan untuk anda.
                 Bisa dijadwalkan kapanpun yang anda mau dan kami siap menjadikan hunain anda menjadi lebih menarik.</p>
@@ -251,7 +251,7 @@
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4" data-aos="zoom-in" data-aos-delay="100">
             <div class="icon-box">
               <div class="icon"><i class="bx bx-world"></i></div>
-              <h4><a href="">Bawa Katalog Kerumah</a></h4>
+              <h4><a href="#">Bawa Katalog Kerumah</a></h4>
               <p>Kami selalu membantu anda untuk pemilihan produk agar tidak salah pilih,
                 anda bisa berkonsultasi kepada customer service kami untuk melihat katalog online dan kami memberikan
                 opsi kedua jika anda ingin melihatnya secara langsung
