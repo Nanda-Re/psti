@@ -46,4 +46,9 @@ Route::middleware('auth')->group(function () {
     // Route::get('/', [produkController::class, 'index']);
 });
 
+Route::middleware(['auth', 'role:owner'])->group(function () {
+    Route::get('/products', [ProdukController::class, 'index']);
+    Route::get('/products/{id}', [ProdukController::class, 'show']);
+});
+
 require __DIR__ . '/auth.php';

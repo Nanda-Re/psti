@@ -2,7 +2,9 @@
     <x-babeng.table-one>
         <x-slot name="thead">
             <th class="babeng-min-row text-center">No</th>
+            @if(auth()->user() && auth()->user()->role === 'admin')
             <th class="babeng-min-row text-center">Aksi</th>
+            @endif
             <th>Nama</th>
             <th>Jenis</th>
             <th>Harga</th>
@@ -14,10 +16,12 @@
             @forelse ($items as $item)
             <tr>
                 <td class="text-center">{{$loop->index+1}}</td>
+                @if(auth()->user() && auth()->user()->role === 'admin')
                 <td class="babeng-min-row">
                     <x-btnedit link="{{route('produk.edit',$item->id)}}"></x-btnedit>
                     <x-btndelete link="{{ route('produk.destroy', $item->id) }}"></x-btndelete>
                 </td>
+                @endif
                 <td >{{$item->name}}</td>
                 <td class="babeng-min-row text-center">{{$item->jenis}}</td>
                 <td class="babeng-min-row text-center">Rp. {{$item->price}}</td>

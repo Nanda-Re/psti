@@ -33,11 +33,13 @@ class RegisteredUserController extends Controller
         $request->validate([
             'username' => ['required', 'string', 'max:255'],
             'password' => ['required', 'confirmed', Rules\Password::defaults()],
+            'role' => ['required', 'in:owner,admin'],
         ]);
 
         $user = User::create([
             'username' => $request->username,
             'password' => Hash::make($request->password),
+            'role' => $request->role
         ]);
 
         event(new Registered($user));
@@ -46,4 +48,6 @@ class RegisteredUserController extends Controller
 
         return redirect(RouteServiceProvider::HOME);
     }
+
+    
 }
