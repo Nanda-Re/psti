@@ -18,6 +18,8 @@ return new class extends Migration
             $table->text('image')->nullable(); // Kolom untuk menyimpan nama gambar
             $table->bigInteger('price');
             $table->integer('stok');
+            $table->boolean('top')->default(false);
+            $table->string('desc')->nullable();
             $table->timestamps();
         });
     }

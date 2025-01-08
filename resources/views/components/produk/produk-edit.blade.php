@@ -57,6 +57,29 @@
         </div>
     </div>
 
+    <!-- Top Item -->
+<div class="form-group row align-items-center py-2">
+    <label for="top" class="form-control-label col-sm-3 text-md-right text-white">Top Item:</label>
+    <div class="col-sm-6 col-md-9">
+        <input type="checkbox" id="top" name="top" value="1" {{ $item->top == 1 ? 'checked' : '' }}>
+        @error('top')
+        <small class="text-danger">{{ $message }}</small>
+        @enderror
+    </div>
+</div>
+
+
+    <!-- Description Field -->
+    <div class="form-group row align-items-center py-2">
+        <label for="desc" class="form-control-label col-sm-3 text-md-right text-white">Deskripsi Produk:</label>
+        <div class="col-sm-6 col-md-9">
+            <textarea class="form-control" id="desc" name="desc" placeholder="Masukan alasan mengapa item ini terlaris...">{{ $item->desc }}</textarea>
+            @error('description')
+            <small class="text-danger">{{ $message }}</small>
+            @enderror
+        </div>
+    </div>
+
     <!-- Submit Button -->
     <div class="card-footer d-flex justify-content-between flex-row-reverse">
         <button class="btn btn-primary">Simpan</button>

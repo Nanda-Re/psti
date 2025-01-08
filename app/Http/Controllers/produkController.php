@@ -17,12 +17,18 @@ class produkController extends Controller
         return view('admin.produk.index', compact('pages', 'items'));
     }
 
+    public function indexTop()
+    {
+        $topProducts = Produk::where('top', true)->get();
+        return view('index', compact('topProducts'));
+    }
 
     public function getProduk()
     {
         $pages = 'products';
         $items = Produk::orderBy('name', 'asc')->paginate();
-        return view('index', compact('pages', 'items'));
+        $topProducts = Produk::where('top', true)->take(5)->get();
+        return view('index', compact('pages', 'items', 'topProducts'));
     }
 
     // Menampilkan form untuk membuat produk baru
@@ -88,10 +94,25 @@ class produkController extends Controller
                 'price' => 'nullable|numeric',
                 'stok' => 'nullable|numeric',
                 'image' => 'nullable|image|mimes:jpeg,png,jpg,gif|max:2048',
+                'top' => 'nullable|boolean',
+                'description' => 'nullable|string|max:255',
             ]);
 
             // Find the product by ID
             $produk = Produk::findOrFail($id);
+
+            // Only check the "top" column condition if the incoming request is attempting to set it to 1
+            if ($request->has('top') && $request->top == 1 && $produk->top != 1) {
+                // Count rows where "top" is 1
+                $topCount = Produk::where('top', 1)->count();
+
+                if ($topCount >= 5) {
+                    // Redirect with error if the limit is reached
+                    return redirect()->back()->with('status', 'Cannot set "top" to 1. Limit of 5 reached.')
+                    ->with('tipe', 'error')
+                    ->with('icon', 'fas fa-feather');
+                }
+            }
 
             // Update fields
             $produk->name = $request->name;
@@ -111,21 +132,27 @@ class produkController extends Controller
                 $produk->image = $path;
             }
 
+            $produk->top = $request->has('top') ? 1 : 0;
+            $produk->desc = $request->desc;
+
             // Save the updated product
             $produk->save();
 
             // Redirect back with success message
-            return redirect()->route('admin.produk')->with('status', 'Data berhasil diperbarui')->with('tipe', 'success')->with('icon', 'fas fa-feather');
+            return redirect()->route('admin.produk')->with('status', 'Data berhasil diperbarui')
+            ->with('tipe', 'success')
+            ->with('icon', 'fas fa-feather');
         } catch (\Exception $e) {
             // Log the error for debugging
             Log::error('Error updating product: ' . $e->getMessage());
 
             // Redirect with error message
             return redirect()->back()->with('status', $e->getMessage())
-                ->with('tipe', 'error')
-                ->with('icon', 'fas fa-feather');
+            ->with('tipe', 'error')
+            ->with('icon', 'fas fa-feather');
         }
     }
+
 
     // Menghapus produk
     public function destroy(Produk $item)

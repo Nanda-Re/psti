@@ -21,6 +21,7 @@ Produk
 
 <div class="card px-2">
     <div class="row">
+    @if(auth()->user() && auth()->user()->role === 'admin')
         <div class="col-xl-6 mb-xl-0 mb-3">
             <div class="btn-toolbar demo-inline-spacing" role="toolbar" aria-produk="Toolbar with button groups">
                 <div class="btn-group" role="group" aria-produk="Third group">
@@ -41,6 +42,7 @@ Produk
               </div> --}}
             </div>
         </div>
+        @endif
     </div>
 </div>
 <div class="card">
